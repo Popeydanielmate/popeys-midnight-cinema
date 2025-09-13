@@ -1,10 +1,13 @@
+import Header from "./components/Header";
+
 function App() {
   return (
     <div>
-      <h1>Popey’s Midnight Cinema</h1>
+      <Header />
     </div>
   );
 }
 
 export default App;
+
 
