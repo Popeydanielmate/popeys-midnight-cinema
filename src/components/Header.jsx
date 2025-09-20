@@ -1,7 +1,10 @@
+import PMCLogo from '../assets/PMC03.png';
+
+
 function Header() {
   return (
     <header className="header">
-      <h1 className="logo">Popey’s Midnight Cinema</h1>
+      <img src={PMCLogo} alt="PMC Logo" className="logo" />
     </header>
   );
 }
