@@ -22,6 +22,21 @@ a {
   display: block;
 }
 
+.home-container {
+  background-color: #000;
+  min-height: 100vh;
+  padding: 40px 60px;
+  color: white;
+}
+
+.movie-section-title {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: white;
+  margin-bottom: 20px;
+}
+
+
 
 
 
