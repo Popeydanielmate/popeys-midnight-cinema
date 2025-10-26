@@ -1,10 +1,13 @@
 import "../styles/global.css";
+import movies from "../data/movies";
+import MovieGrid from "../components/MovieGrid";
+
 
 const Home = () => {
   return (
     <div className="home-container">
       <h2 className="movie-section-title">All Movies A–Z</h2>
-      {/* Movie content will go here later */}
+      <MovieGrid movies={movies} />
     </div>
   );
 };
