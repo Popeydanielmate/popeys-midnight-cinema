@@ -1,15 +1,25 @@
+import { useState } from 'react';
+import MovieModal from './MovieModal.jsx';
+import '../styles/global.css';
 
+const MovieCard = ({ movie }) => {
+  const [showModal, setShowModal] = useState(false);
 
-function MovieCard({ movie }) {
+  const handleOpen = () => setShowModal(true);
+  const handleClose = () => setShowModal(false);
+
   return (
-    <div className="movie-card">
-      <img
-        src={movie.posterUrl}
-        alt={movie.title}
-        className="movie-poster"
-      />
-    </div>
+    <>
+      <div className="movie-card" onClick={handleOpen}>
+        <img src={movie.posterUrl} alt={movie.title} className="movie-poster" />
+      </div>
+
+      {showModal && (
+        <MovieModal movie={movie} onClose={handleClose} />
+      )}
+    </>
   );
-}
+};
 
 export default MovieCard;
+

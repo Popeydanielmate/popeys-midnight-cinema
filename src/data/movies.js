@@ -11,7 +11,7 @@ const movies = [
     posterUrl: deathstalkerPoster,
     trailerUrl: "https://www.youtube.com/watch?v=P8FTMs4hzZk",
     rating: "4.6/10 (IMDb)", 
-    genres: ["Fantasy", "Action", "Cult"],
+    genres: ["Fantasy, ", "Sword & Sorcery ", ],
     duration: "80 min",
     language: "English",
     country: "USA / Argentina",
