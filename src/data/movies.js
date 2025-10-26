@@ -7,7 +7,7 @@ const movies = [
     year: 1983,
     director: "James Sbardellati",
     cast: ["Rick Hill", "Barbi Benton", "Richard Brooker", "Lana Clarkson"],
-    synopsis: "A lone warrior is tasked by a witch to find three magical artefacts — a sword, a chalice and an amulet — and must confront the evil sorcerer Munkar in a deadly tournament. :contentReference[oaicite:1]{index=1}",
+    synopsis: "A lone warrior is tasked by a witch to find three magical artefacts — a sword, a chalice and an amulet — and must confront the evil sorcerer Munkar in a deadly tournament.",
     posterUrl: deathstalkerPoster,
     trailerUrl: "https://www.youtube.com/watch?v=P8FTMs4hzZk",
     rating: "4.6/10 (IMDb)", 
