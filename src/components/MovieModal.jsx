@@ -10,9 +10,10 @@ const MovieModal = ({ movie, onClose }) => {
         <button className="modal-close" onClick={onClose}>✖</button>
         <h2>{movie.title}</h2>
         <p><strong>Year:</strong> {movie.year}</p>
-        <p><strong>Genre:</strong> {movie.genres}</p>
         <p><strong>Director:</strong> {movie.director}</p>
         <p><strong>Cast:</strong> {movie.cast.join(", ")}</p>
+        <p><strong>Genre:</strong> {movie.genres}</p>
+        <p><strong>Rating:</strong> {movie.rating}</p>
         <p className="modal-synopsis">{movie.synopsis}</p>
         <button className="play-button">▶ Play</button>
       </div>
