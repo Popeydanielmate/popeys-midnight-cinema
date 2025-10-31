@@ -9,13 +9,10 @@ const movies = [
     cast: ["Rick Hill", "Barbi Benton", "Richard Brooker", "Lana Clarkson"],
     synopsis: "A lone warrior is tasked by a witch to find three magical artefacts — a sword, a chalice and an amulet — and must confront the evil sorcerer Munkar in a deadly tournament.",
     posterUrl: deathstalkerPoster,
-    trailerUrl: "https://www.youtube.com/watch?v=P8FTMs4hzZk",
-    rating: "4.6/10 (IMDb)", 
+    rating: "4.6/10", 
     genres: ["Fantasy, ", "Sword & Sorcery ", ],
     duration: "80 min",
     language: "English",
-    country: "USA / Argentina",
-    availableOnYouTube: true
   }
 ];
 
