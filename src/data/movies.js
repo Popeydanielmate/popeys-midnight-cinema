@@ -1,9 +1,11 @@
 import deathstalkerPoster from "../assets/deathstalker-poster.jpeg";
+import deathstalkerModalPhoto from "../assets/deathstalker_modalcover.png";
 
 const movies = [
   {
     id: 1,
     title: "Deathstalker",
+    coverPhoto: deathstalkerModalPhoto,
     year: 1983,
     director: "James Sbardellati",
     cast: ["Rick Hill", "Barbi Benton", "Richard Brooker", "Lana Clarkson"],

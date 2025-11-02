@@ -9,6 +9,13 @@ const MovieModal = ({ movie, onClose }) => {
       <div className="modal-content" onClick={(e) => e.stopPropagation()}>
         <button className="modal-close" onClick={onClose}>✖</button>
         <h2>{movie.title}</h2>
+        {movie.coverPhoto && (
+            <img 
+                src={movie.coverPhoto} 
+                alt={`${movie.title} still`} 
+                className="modal-cover-photo"
+            />
+            )}
         <p><strong>Year:</strong> {movie.year}</p>
         <p><strong>Director:</strong> {movie.director}</p>
         <p><strong>Cast:</strong> {movie.cast.join(", ")}</p>
