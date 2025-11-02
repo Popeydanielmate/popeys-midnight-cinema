@@ -17,6 +17,7 @@ const MovieModal = ({ movie, onClose }) => {
         <p><strong>Duration:</strong> {movie.duration}</p>
         <p><strong>Language:</strong> {movie.language}</p>
         <p className="modal-synopsis">{movie.synopsis}</p>
+        <p><strong>Why Should You Watch This?:</strong> {movie.whyWatch}</p>
         <button className="play-button">▶ Play</button>
       </div>
     </div>
