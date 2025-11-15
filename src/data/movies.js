@@ -4,6 +4,8 @@ import stalker_modalcover from "../assets/stalker_modalcover.avif";
 import stalkerPoster from "../assets/stalkerPoster.jpg";
 import kasparPoster from "../assets/kasparPoster.jpg";
 import kaspar_modalcover from "../assets/kaspar_modalcover.avif";
+import stroszekPoster from "../assets/stroszekPoster.jpg";
+import stroszek_modalcover from "../assets/stroszek_modalcover.avif";
 
 const movies = [
   {
@@ -48,14 +50,33 @@ const movies = [
     director: "Werner Herzog",
     cast: ["Bruno S", "Walter Ladengast", "Brigitte Mira",],
     synopsis: "Herzog's film is based upon the true and mysterious story of Kaspar Hauser, a young man who suddenly appeared in Nuremberg in 1828, barely able to talk or walk, and bearing a strange note; he later explained that he had been held captive in a dungeon of some sort for his entire life that he could remember, and only recently was he released, for reasons unknown. His benefactor attempts to integrate him into society, with intriguing results",
-    whyWatch: "one of Werner Herzog’s most haunting and human films, telling the true story of a young man who spent his life in isolation and is suddenly thrust into society. Through Kaspar’s innocent, literal-minded view of the world, the film becomes a beautiful exploration of what it actually means to be “civilized,” how society treats outsiders, and how fragile and strange human behavior really is. Bruno S. gives a raw, unforgettable performance that feels almost documentary-real, and Herzog turns the story into something both philosophical and deeply emotional. It’s a film that stays simple on the surface but resonates long afterward.",
+    whyWatch: "One of Werner Herzog’s most haunting and human films, telling the true story of a young man who spent his life in isolation and is suddenly thrust into society. Through Kaspar’s innocent, literal-minded view of the world, the film becomes a beautiful exploration of what it actually means to be “civilized,” how society treats outsiders, and how fragile and strange human behavior really is. Bruno S. gives a raw, unforgettable performance that feels almost documentary-real, and Herzog turns the story into something both philosophical and deeply emotional. It’s a film that stays simple on the surface but resonates long afterward.",
     posterUrl: kasparPoster,
     rating: "7.7/10", 
     genres: ["Period Drama, ", " Biography, ", " History", ],
     duration: "110 min",
     language: "German (with English auto sub option) ",
     link: "https://www.youtube.com/watch?v=t5q6QmiikM8",
+    },
+
+    {
+    id: 4,
+    title: "Stroszek",
+    coverPhoto: stroszek_modalcover,
+    year: 1977,
+    director: "Werner Herzog",
+    cast: ["Bruno S", "Eva Mattes", "Clemens Scheitz", "Wilhelm von Homburg", ],
+    synopsis: "Bruno Stroszek is released from prison and warned to stop drinking. He has few skills and fewer expectations: with a glockenspiel and an accordion, he ekes out a living as a street musician. He befriends Eva, a sex worker down on her luck. After they are harried and beaten by the thugs who have been Eva's pimps, they join Bruno's neighbor, Scheitz, an elderly eccentric, when he leaves Germany to live in Wisconsin. In that winter bound, barren prairie, Bruno works as a mechanic, Eva as a waitress. They buy a trailer. Then, bills mount, the bank threatens to repossess the trailer, Eva wants privacy, and inexorably, the promise of a new life deserts Bruno.",
+    whyWatch: "One of Herzog’s most heartbreaking yet darkly funny films, following a gentle, unlucky man who leaves Germany hoping for a better life in America, only to find a different kind of struggle. It blends bleak realism with surreal, poetic moments, creating a story that feels both painfully human and strangely dreamlike. Bruno S. gives another raw, vulnerable performance that makes the film emotionally gripping, and Herzog uses the American landscape to highlight the absurdities of modern life.",
+    posterUrl: stroszekPoster,
+    rating: "7.7/10", 
+    genres: ["Drama, ", " Tragic Comedy, ", ],
+    duration: "110 min",
+    language: "German, English (with English sub) ",
+    link: "https://www.youtube.com/watch?v=FCDmvgrxrOE",
     }
+
+
 
 
 
