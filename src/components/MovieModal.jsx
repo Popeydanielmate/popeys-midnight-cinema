@@ -8,7 +8,7 @@ const MovieModal = ({ movie, onClose }) => {
     <div className="modal-overlay" onClick={onClose}>
       <div className="modal-content" onClick={(e) => e.stopPropagation()}>
         <button className="modal-close" onClick={onClose}>✖</button>
-        <h2>{movie.title}</h2>
+        <h2 className="movie-modal-title">{movie.title}</h2>
         {movie.coverPhoto && (
             <img 
                 src={movie.coverPhoto} 
