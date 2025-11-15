@@ -16,6 +16,8 @@ const movies = [
     genres: ["Fantasy, ", "Sword & Sorcery ", ],
     duration: "80 min",
     language: "English",
+    link: "https://tubitv.com/movies/463724/deathstalker",
+
   }
 ];
 

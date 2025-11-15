@@ -25,8 +25,8 @@ const MovieModal = ({ movie, onClose }) => {
         <p><strong>Language:</strong> {movie.language}</p>
         <p className="modal-synopsis">{movie.synopsis}</p>
         <p><strong>Why Should You Watch This?:</strong> {movie.whyWatch}</p>
-        <button className="play-button">▶ Play</button>
-      </div>
+        <a className="play-button"href={movie.link}target="_blank"rel="noopener noreferrer">▶ Play</a>
+        </div>
     </div>
   );
 };
