@@ -16,6 +16,8 @@ import wakeinfrightPoster from "../assets/wakeinfrightPoster.jpg";
 import wakeinfright_modalcover from "../assets/wakeinfright_modalcover.jpg";
 import suspiriaPoster from "../assets/suspiriaPoster.webp";
 import suspiria_modalcover from "../assets/suspiria_modalcover.jpg";
+import rabbitsPoster from "../assets/rabbitsPoster.jpg";
+import rabbits_modalcover from "../assets/rabbits_modalcover.webp";
 
 const movies = [
   {
@@ -169,6 +171,23 @@ const movies = [
     duration: "100 min",
     language: "English (with English subs) ",
     link: "https://tubitv.com/movies/100042026/suspiria",
+    },
+
+    {
+    id: 10,
+    title: "Rabbits",
+    coverPhoto: rabbits_modalcover,
+    year: 2002,
+    director: "David Lynch",
+    cast: ["Naomi Watts", "Scott Coffey", "Laura Elena Harring", "Rebekah Del Rio", ],
+    synopsis: "In a nameless city deluged by continuous rain, three rabbits live with a fearful mystery.",
+    whyWatch: "A surreal, unsettling experiment in atmosphere, dialogue, and timing that captures Lynch’s signature blend of dark humor and cosmic unease. Set in a sparse, dimly lit room with anthropomorphic characters, the short episodes use pauses, absurdist conversations, and eerie sound design to create a sense of dread and mystery that feels both mundane and nightmarish. It’s not a traditional story, but a hypnotic, haunting glimpse into Lynch’s exploration of isolation, anxiety, and the uncanny.",
+    posterUrl: rabbitsPoster,
+    rating: "6.9/10", 
+    genres: ["Fantasy, ", " Horror, ", "Mystery", ],
+    duration: "43 min",
+    language: "English (with English subs) ",
+    link: "https://www.youtube.com/watch?v=drjQfQtv2BQ",
     }
 
 
