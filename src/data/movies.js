@@ -8,6 +8,10 @@ import stroszekPoster from "../assets/stroszekPoster.jpg";
 import stroszek_modalcover from "../assets/stroszek_modalcover.avif";
 import blackRainbowPoster from "../assets/blackRainbowPoster.jpeg";
 import blackrainbow_modalcover from "../assets/blackrainbow_modalcover.webp";
+import nextFloorPoster from "../assets/nextFloorPoster.jpg";
+import nextfloor_modalcover from "../assets/nextfloor_modalcover.jpg";
+import hellraiserPoster from "../assets/hellraiserPoster.jpg";
+import hellraiser_modalcover from "../assets/hellraiser_modalcover.jpg";
 
 const movies = [
   {
@@ -86,13 +90,47 @@ const movies = [
     director: "Panos Cosmatos",
     cast: ["Eva Bourne", "Michael J Rogers", "Scott Hylands", "Rondel Reynoldson", ],
     synopsis: "In 1983, a young mute woman with psychic abilities is held captive within the Arboria Institute, a secluded futuristic facility run by a sinister doctor with an unraveling mind and a growing obsession with her.",
-    whyWatch: "delivers a hypnotic, visually stunning blend of retro-sci-fi and psychological horror that feels unlike anything else. Rather than focusing on plot, it creates an intense, dreamlike mood through neon-soaked visuals, eerie synth music, and slow-burn tension. It’s a film that rewards viewers who enjoy atmosphere, symbolism, and unsettling, surreal imagery.",
+    whyWatch: "Delivers a hypnotic, visually stunning blend of retro-sci-fi and psychological horror that feels unlike anything else. Rather than focusing on plot, it creates an intense, dreamlike mood through neon-soaked visuals, eerie synth music, and slow-burn tension. It’s a film that rewards viewers who enjoy atmosphere, symbolism, and unsettling, surreal imagery.",
     posterUrl: blackRainbowPoster,
     rating: "5.9/10", 
     genres: ["Sci Fi, ", " Psychological Horror, ", ],
     duration: "110 min",
     language: "English (with English sub) ",
     link: "https://www.youtube.com/watch?v=0tTI3gYzMIc",
+    },
+
+    {
+    id: 6,
+    title: "Next Floor",
+    coverPhoto: nextfloor_modalcover,
+    year: 2008,
+    director: "Denis Villeneuve",
+    cast: ["Jean Marchand", "Mathieu Handfield", "Sébastien René", "Emmanuel Schwartz", ],
+    synopsis: "During an opulent banquet, eleven pampered guests participate in what appears to be a ritualistic gastronomic carnage. In this grotesque universe, an unexpected sequence of events destabilizes the endless symphony of abundance.",
+    whyWatch: "Offers a striking early glimpse of Denis Villeneuve’s talent before he went on to make major films like Prisoners, Blade Runner 2049, and Dune. In just 12 minutes, he showcases the visual precision, atmospheric tension, and thematic depth that would define his later work, using a darkly surreal dinner scene to explore excess, repetition, and human appetite. The short is visually bold, sharply directed, and unsettling",
+    posterUrl: nextFloorPoster,
+    rating: "7.4/10", 
+    genres: ["Dark Comedy, ", " Satire, ", ],
+    duration: "11 min",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=lFJS0Ay9PN8",
+    },
+
+    {
+    id: 7,
+    title: "Hellraiser",
+    coverPhoto: hellraiser_modalcover,
+    year: 1987,
+    director: "Clive Barker",
+    cast: ["Ashley Laurence", "Andrew Robinson", "Clare Higgins", "Doug Bradley", ],
+    synopsis: "Dark, atmospheric horror film about a man named Frank who opens a mysterious puzzle box that summons the Cenobites—otherworldly beings who blur the line between pain and pleasure. After Frank is torn apart, he’s partially resurrected in the attic of his brother’s house, depending on his former lover Julia to lure victims so he can rebuild his body. As his niece Kirsty uncovers the truth, she’s drawn into a deadly confrontation with both Frank and the Cenobites",
+    whyWatch: "One of the most original and imaginative horror films ever made, blending supernatural mythology, visceral practical effects, and a twisted family drama into something that feels genuinely unsettling. Instead of relying on cheap scares, it builds a rich, disturbing world centered around desire, obsession, and the dangers of pushing past human limits. The Cenobites are iconic for a reason—they’re terrifying, mysterious, and unlike any other horror villains. A horror film that’s atmospheric, bold, and still shockingly unique decades later.",
+    posterUrl: hellraiserPoster,
+    rating: "6.9/10", 
+    genres: ["Body Horror, ", " Thriller, ", ],
+    duration: "94 min",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3251990-3352600/ea26339466be10548b3d3528887e63d2-3132666-3233676",
     }
 
 
