@@ -12,6 +12,8 @@ import nextFloorPoster from "../assets/nextFloorPoster.jpg";
 import nextfloor_modalcover from "../assets/nextfloor_modalcover.jpg";
 import hellraiserPoster from "../assets/hellraiserPoster.jpg";
 import hellraiser_modalcover from "../assets/hellraiser_modalcover.jpg";
+import wakeinfrightPoster from "../assets/wakeinfrightPoster.jpg";
+import wakeinfright_modalcover from "../assets/wakeinfright_modalcover.jpg";
 
 const movies = [
   {
@@ -131,7 +133,26 @@ const movies = [
     duration: "94 min",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3251990-3352600/ea26339466be10548b3d3528887e63d2-3132666-3233676",
+    },
+
+    {
+    id: 8,
+    title: "Wake in Fright",
+    coverPhoto: wakeinfright_modalcover,
+    year: 1971,
+    director: "Ted Kotcheff",
+    cast: ["Donald Pleasence", "Gary Bond", "Jack Thompson", "Sylvia Kay", ],
+    synopsis: "After a bad gambling bet, a schoolteacher is marooned in a town full of crazy, drunk, violent men who threaten to make him just as crazy, drunk, and violent.",
+    whyWatch: "One of the most intense, haunting portrayals of psychological unraveling ever put on film, capturing the darker side of Australian outback culture with a realism that borders on nightmarish. Rather than relying on horror tropes, it traps you alongside its protagonist in a spiral of drinking, violence, peer pressure, and moral collapse, creating a sense of dread that feels disturbingly plausible. The film is beautifully shot, brilliantly acted, and still shockingly relevant, offering a raw look at masculinity, isolation, and the ease with which an ordinary person can lose control of their life. It’s a gripping, unforgettable experience",
+    posterUrl: wakeinfrightPoster,
+    rating: "7.5/10", 
+    genres: ["Psychological Drama, ", " Thriller, ", ],
+    duration: "104 min",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252000-3352610/7f860a8eb5520adfc50299a060e9a73e-3060945-3159541/",
     }
+
+
 
 
 
