@@ -14,6 +14,8 @@ import hellraiserPoster from "../assets/hellraiserPoster.jpg";
 import hellraiser_modalcover from "../assets/hellraiser_modalcover.jpg";
 import wakeinfrightPoster from "../assets/wakeinfrightPoster.jpg";
 import wakeinfright_modalcover from "../assets/wakeinfright_modalcover.jpg";
+import suspiriaPoster from "../assets/suspiriaPoster.webp";
+import suspiria_modalcover from "../assets/suspiria_modalcover.jpg";
 
 const movies = [
   {
@@ -150,7 +152,26 @@ const movies = [
     duration: "104 min",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252000-3352610/7f860a8eb5520adfc50299a060e9a73e-3060945-3159541/",
+    },
+
+    {
+    id: 9,
+    title: "Suspiria",
+    coverPhoto: suspiria_modalcover,
+    year: 1977,
+    director: "Dario Argento",
+    cast: ["Jessica Harper", "Stefania Casini", "Flavio Bucci", "Miguel Bosé", ],
+    synopsis: "An American newcomer to a prestigious German ballet academy comes to realize that the school is a front for something sinister amid a series of grisly murders.",
+    whyWatch: "A masterclass in surreal, nightmarish horror, combining vivid, expressionistic visuals, an unforgettable synth-heavy score, and a story that feels both mysterious and terrifying. Dario Argento turns a girls’ dance academy into a living nightmare, using color, lighting, and sound to create an atmosphere so intense it becomes almost tactile. Beyond the scares, it’s a deeply stylized, almost hypnotic experience that shows how horror can be both beautiful and horrifying at the same time.",
+    posterUrl: suspiriaPoster,
+    rating: "7.3/10", 
+    genres: ["Witch Horror, ", " Psychological Horror, ", ],
+    duration: "100 min",
+    language: "English (with English subs) ",
+    link: "https://tubitv.com/movies/100042026/suspiria",
     }
+
+
 
 
 
