@@ -18,6 +18,8 @@ import suspiriaPoster from "../assets/suspiriaPoster.webp";
 import suspiria_modalcover from "../assets/suspiria_modalcover.jpg";
 import rabbitsPoster from "../assets/rabbitsPoster.jpg";
 import rabbits_modalcover from "../assets/rabbits_modalcover.webp";
+import babadookPoster from "../assets/babadookPoster.webp";
+import babadook_modalcover from "../assets/babadook_modalcover.avif";
 
 const movies = [
   {
@@ -188,6 +190,23 @@ const movies = [
     duration: "43 min",
     language: "English (with English subs) ",
     link: "https://www.youtube.com/watch?v=drjQfQtv2BQ",
+    },
+
+     {
+    id: 11,
+    title: "The Babadook",
+    coverPhoto: babadook_modalcover,
+    year: 2014,
+    director: "Jennifer Kent",
+    cast: ["Essie Davis", "Noah Wiseman", "Hayley McElhinney", "Daniel Henshall", ],
+    synopsis: "A single mother and her child fall into a deep well of paranoia when an eerie children's book titled Mister Babadook manifests in their home.",
+    whyWatch: "A deeply psychological horror film that uses supernatural terror to explore grief, trauma, and the struggles of motherhood. Beyond the jump scares, it’s a tense, emotionally resonant story about a mother and her son confronting a mysterious, malevolent presence that mirrors their inner fears. The film combines atmospheric visuals, a haunting score, and a compelling central performance to create a horror experience that’s both terrifying and profoundly human.",
+    posterUrl: babadookPoster,
+    rating: "6.8/10", 
+    genres: ["Monster Horror, ", "Supernatural Horror, ", "Mystery", ],
+    duration: "94 min",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3451826-3553845/5b60aaad8dcb3f75da4bfb27c5368403-3119920-3219700",
     }
 
 
