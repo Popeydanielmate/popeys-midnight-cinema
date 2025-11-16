@@ -6,6 +6,8 @@ import kasparPoster from "../assets/kasparPoster.jpg";
 import kaspar_modalcover from "../assets/kaspar_modalcover.avif";
 import stroszekPoster from "../assets/stroszekPoster.jpg";
 import stroszek_modalcover from "../assets/stroszek_modalcover.avif";
+import blackRainbowPoster from "../assets/blackRainbowPoster.jpeg";
+import blackrainbow_modalcover from "../assets/blackrainbow_modalcover.webp";
 
 const movies = [
   {
@@ -74,6 +76,23 @@ const movies = [
     duration: "110 min",
     language: "German, English (with English sub) ",
     link: "https://www.youtube.com/watch?v=FCDmvgrxrOE",
+    },
+
+    {
+    id: 5,
+    title: "Beyond The Black Rainbow",
+    coverPhoto: blackrainbow_modalcover,
+    year: 2010,
+    director: "Panos Cosmatos",
+    cast: ["Eva Bourne", "Michael J Rogers", "Scott Hylands", "Rondel Reynoldson", ],
+    synopsis: "In 1983, a young mute woman with psychic abilities is held captive within the Arboria Institute, a secluded futuristic facility run by a sinister doctor with an unraveling mind and a growing obsession with her.",
+    whyWatch: "delivers a hypnotic, visually stunning blend of retro-sci-fi and psychological horror that feels unlike anything else. Rather than focusing on plot, it creates an intense, dreamlike mood through neon-soaked visuals, eerie synth music, and slow-burn tension. It’s a film that rewards viewers who enjoy atmosphere, symbolism, and unsettling, surreal imagery.",
+    posterUrl: blackRainbowPoster,
+    rating: "5.9/10", 
+    genres: ["Sci Fi, ", " Psychological Horror, ", ],
+    duration: "110 min",
+    language: "English (with English sub) ",
+    link: "https://www.youtube.com/watch?v=0tTI3gYzMIc",
     }
 
 
