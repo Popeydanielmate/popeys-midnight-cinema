@@ -16,6 +16,7 @@ const MovieModal = ({ movie, onClose }) => {
                 className="modal-cover-photo"
             />
             )}
+        <p>{movie.classification}</p>    
         <p><strong>Year:</strong> {movie.year}</p>
         <p><strong>Director:</strong> {movie.director}</p>
         <p><strong>Cast:</strong> {movie.cast.join(", ")}</p>

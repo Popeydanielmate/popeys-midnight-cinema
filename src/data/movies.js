@@ -29,6 +29,7 @@ const movies = [
     id: 1,
     title: "Deathstalker",
     coverPhoto: deathstalkerModalPhoto,
+    classification: "R18+",
     year: 1983,
     director: "James Sbardellati",
     cast: ["Rick Hill", "Barbi Benton", "Richard Brooker", "Lana Clarkson"],
