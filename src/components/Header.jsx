@@ -10,7 +10,8 @@ function Header() {
           <img src={PMCLogo} alt="PMC Logo" className="logo" />
         </div>
 
-        <div className="header-block">
+        
+          <div className="header-block header-text-block">
           <p>
             A free streaming corner for lovers of 
             cult, horror, exploitation, forgotten arthouse, and everything weird in-between.
@@ -18,10 +19,11 @@ function Header() {
           </p>
         </div>
 
-        <div className="header-block">
+        
+          <div className="header-block">
           <p>
             Got a film suggestion or found a broken link?<br />
-            Email us at: <a href="mailto:popeydaniel@hotmail.com">popeydaniel@hotmail.com</a>
+            Email us at: ✉️ <a href="mailto:popeydaniel@hotmail.com" className="email-button">popeydaniel@hotmail.com</a>
           </p>
         </div>
 
