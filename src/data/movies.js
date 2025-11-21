@@ -20,6 +20,9 @@ import rabbitsPoster from "../assets/rabbitsPoster.jpg";
 import rabbits_modalcover from "../assets/rabbits_modalcover.webp";
 import babadookPoster from "../assets/babadookPoster.webp";
 import babadook_modalcover from "../assets/babadook_modalcover.avif";
+import solarisPoster from "../assets/solarisPoster.webp";
+import solaris_modalcover from "../assets/solaris_modalcover.jpg";
+
 
 const movies = [
   {
@@ -192,7 +195,7 @@ const movies = [
     link: "https://www.youtube.com/watch?v=drjQfQtv2BQ",
     },
 
-     {
+    {
     id: 11,
     title: "The Babadook",
     coverPhoto: babadook_modalcover,
@@ -207,7 +210,26 @@ const movies = [
     duration: "94 min",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3451826-3553845/5b60aaad8dcb3f75da4bfb27c5368403-3119920-3219700",
+    },
+
+    {
+    id: 12,
+    title: "Solaris",
+    coverPhoto: solaris_modalcover,
+    year: 1972,
+    director: "Andrei Tarkovsky",
+    cast: ["Natalya Bondarchuk", "Donatas Banionis", "Jüri Järvet", "Vladislav Dvorzhetskiy", ],
+    synopsis: "A psychologist is sent to a station orbiting a distant planet in order to discover what has caused the crew to go insane.",
+    whyWatch: "A slow, meditative science-fiction masterpiece that explores memory, grief, and the nature of human consciousness. Tarkovsky turns a space station orbiting a mysterious planet into a psychological and philosophical labyrinth, where the boundaries between reality and imagination blur. Unlike typical sci-fi, the film focuses on emotional and existential questions rather than spectacle, offering haunting imagery, long, immersive takes, and a profound sense of melancholy.",
+    posterUrl: solarisPoster,
+    rating: "7.9/10", 
+    genres: ["Adventure Epic, ", "Psychological Drama, ", "Sci Fi", ],
+    duration: "167 min",
+    language: "Russian (with English subs) ",
+    link: "https://www.youtube.com/watch?v=Z8ZhQPaw4rE",
     }
+
+
 
 
 
