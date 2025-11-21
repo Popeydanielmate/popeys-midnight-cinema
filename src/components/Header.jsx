@@ -13,7 +13,7 @@ function Header() {
         <div className="header-block">
           <p>
             A free streaming corner for lovers of 
-            cult, horror, exploitation, arthouse, and everything weird in-between.
+            cult, horror, exploitation, forgotten arthouse, and everything weird in-between.
             If your taste sits somewhere between <em>Mubi</em> and <em>Shudder</em>, you’re home.
           </p>
         </div>
@@ -27,8 +27,7 @@ function Header() {
 
         <div className="header-block">
           <p>
-            This site will always be free — but if you'd like to help with upkeep and 
-            support the hunt for more cult cinema gems, consider buying us a coffee.
+            This site will always be free — but your potential support would give us more time to find more cult cinema gems, upkeep, and improve the quality of the site, consider buying us a coffee.
           </p>
           <a 
             href="https://www.buymeacoffee.com/" 
