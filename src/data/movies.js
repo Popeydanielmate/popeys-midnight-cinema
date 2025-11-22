@@ -34,6 +34,10 @@ import hardToBeAGodPoster from "../assets/hardToBeAGodPoster.png";
 import hardToBeAGod_modalcover from "../assets/hardToBeAGod_modalcover.jpg";
 import holyMountainPoster from "../assets/holyMountainPoster.jpg";
 import holyMountain_modalcover from "../assets/holyMountain_modalcover.jpg";
+import nosferatuPoster from "../assets/nosferatuPoster.webp";
+import nosferatu_modalcover from "../assets/nosferatu_modalcover.webp";
+import silverGlobePoster from "../assets/silverGlobePoster.jpg";
+import silverGlobe_modalcover from "../assets/silverGlobe_modalcover.jpg";
 
 const movies = [
   {
@@ -354,11 +358,50 @@ const movies = [
     whyWatch: "One of the boldest, strangest, and most visually spectacular films ever made—a surreal, symbolic journey that mixes satire, spirituality, and psychedelic imagery in a way only Alejandro Jodorowsky could create. Instead of offering a traditional plot, the film uses striking, often shocking tableaux to explore themes like materialism, religion, power, and enlightenment, making it feel more like a cinematic ritual than a narrative. It’s provocative, funny, bizarre, and wildly inventive, and even if you don’t understand every symbol, the experience is unforgettable. If you enjoy films that challenge, mesmerize, and push boundaries, this is essential viewing.",
     posterUrl: holyMountainPoster,
     rating: "7.7/10", 
-    genres: ["Epic, ", "Psychological Drama, ", " Quest ", ],
+    genres: ["Epic, ", "Psychological Drama, ", "Quest ", ],
     duration: "114 min",
     language: "Spanish (with English subs) ",
     link: "https://www.youtube.com/watch?v=KO9bjf0Dytw",
+    },
+
+    {
+    id: 19,
+    title: "Nosferatu",
+    coverPhoto: nosferatu_modalcover,
+    classification: "PG",
+    year: 1922,
+    director: "F.W. Murnau",
+    cast: ["Max Schreck", "Gustav von Wangenheim", "Greta Schröder", "Georg H. Schnell", ],
+    synopsis: "Much to the chagrin of his new bride, a German real estate agent is sent to Transylvania to purchase a castle owned by a count with a shadowy secret.",
+    whyWatch: "A foundational masterpiece of horror and one of the most visually striking silent films ever made. F.W. Murnau’s expressionist style—long shadows, eerie angles, and haunting imagery—creates a mood of dread that still feels chilling a century later. Max Schreck’s unnerving portrayal of Count Orlok embodies a creeping, inhuman terror that defines the vampire genre, while the film’s atmosphere and storytelling influence nearly every horror movie that followed. It’s a must-see for anyone interested in the origins of cinematic horror and the power of visual storytelling.",
+    posterUrl: nosferatuPoster,
+    rating: "7.8/10", 
+    genres: ["Folk Horror, ", "Dark Fantasy, ", "Vampire Horror ", ],
+    duration: "90 min",
+    language: "English ",
+    link: "https://tubitv.com/movies/643412/nosferatu",
+    },
+
+    {
+    id: 20,
+    title: "On The Silver Globe",
+    coverPhoto: silverGlobe_modalcover,
+    classification: "MA15+",
+    year: 1988,
+    director: "Andrzej Zulawski",
+    cast: ["Andrzej Seweryn", "Jerzy Trela", "Grazyna Dylag", "Waldemar Kownacki", ],
+    synopsis: "A team of astronauts land on an inhabitable planet and form a society. Many years later, a single astronaut is sent to the planet and becomes a messiah.",
+    whyWatch: "A haunting, visually ambitious science-fiction epic that immerses you in a strange, alien world while exploring human nature, religion, and power. Andrzej Żuławski’s direction creates a sense of awe and unease, blending surreal imagery with raw, emotional performances to make the planet and its society feel lived-in and unsettling. Despite its famously troubled production, the film’s bold, experimental style and philosophical depth make it a mesmerizing and unforgettable experience for viewers willing to embrace its intensity and strangeness.",
+    posterUrl: silverGlobePoster,
+    rating: "7.1/10", 
+    genres: ["Space Sci Fi, ", "Adventure, ", "Sci Fi Epic ", ],
+    duration: "165 min",
+    language: "Polish (with English subs) ",
+    link: "https://www.youtube.com/watch?v=cKh1D8wwJuM",
     }
+
+
+
 
 
 
