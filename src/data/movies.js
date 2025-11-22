@@ -26,6 +26,8 @@ import eyesWithoutAFacePoster from "../assets/eyesWithoutAFacePoster.jpg";
 import eyesWithoutAFace_modalcover from "../assets/eyesWithoutAFace_modalcover.png";
 import wishmasterPoster from "../assets/wishmasterPoster.webp";
 import wishmaster_modalcover from "../assets/wishmaster_modalcover.webp";
+import tenCanoesPoster from "../assets/tenCanoesPoster.jpg";
+import tenCanoes_modalcover from "../assets/tenCanoes_modalcover.jpg";
 
 const movies = [
   {
@@ -278,6 +280,24 @@ const movies = [
     duration: "90 min",
     language: "English ",
     link: "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d77683454f42c001f8c4390",
+    },
+
+    {
+    id: 15,
+    title: "Ten Canoes",
+    coverPhoto: tenCanoes_modalcover,
+    classification: "M",
+    year: 2006,
+    director: "Rolf De Heer",
+    cast: ["David Gulpilil", "Jamie Gulpilil", "Crusoe Kurddal", "Frances Djulibing", ],
+    synopsis: "In Australia's Northern Territory, a man tells us a story of his people and his land. It's about an older man, Minygululu, who has three wives and realizes that his younger brother Dayindi may try to steal away the youngest wife.",
+    whyWatch: "A beautifully told, culturally rich film that offers a rare and authentic glimpse into Indigenous Australian storytelling, history, and tradition. Narrated with warmth and humor, it weaves together a tale within a tale, blending myth, morality, and everyday life in a way that feels timeless and human. The film’s striking cinematography and unique structure make it both visually captivating and emotionally engaging, while its grounding in Indigenous voices and perspectives gives it a depth and authenticity that’s uncommon in mainstream cinema.",
+    posterUrl: tenCanoesPoster,
+    rating: "6.9/10", 
+    genres: ["Comedy, ", "Drama, ", "Adventure ", ],
+    duration: "90 min",
+    language: "Ganalbingu (with English subs) ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323?mode=details#3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3423920-3525754/9b0460e243ca9c645701e3de9501aea3-3295615-3396588",
     }
 
 
