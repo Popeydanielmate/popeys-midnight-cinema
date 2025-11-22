@@ -114,9 +114,6 @@ a {
 }
 
 
-
-
-
 .home-container {
   background-color: #000;
   min-height: 100vh;
@@ -210,6 +207,10 @@ a {
   box-sizing: border-box; 
   position: relative;
   text-align: left;
+}
+
+.why-watch-underline {
+  text-decoration: underline;
 }
 
 .modal-close {
