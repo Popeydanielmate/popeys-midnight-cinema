@@ -28,6 +28,8 @@ import wishmasterPoster from "../assets/wishmasterPoster.webp";
 import wishmaster_modalcover from "../assets/wishmaster_modalcover.webp";
 import tenCanoesPoster from "../assets/tenCanoesPoster.jpg";
 import tenCanoes_modalcover from "../assets/tenCanoes_modalcover.jpg";
+import dreamsPoster from "../assets/dreamsPoster.jpg";
+import dreams_modalcover from "../assets/dreams_modalcover.jpg";
 
 const movies = [
   {
@@ -298,6 +300,24 @@ const movies = [
     duration: "90 min",
     language: "Ganalbingu (with English subs) ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323?mode=details#3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3423920-3525754/9b0460e243ca9c645701e3de9501aea3-3295615-3396588",
+    },
+
+    {
+    id: 16,
+    title: "Dreams",
+    coverPhoto: dreams_modalcover,
+    classification: "PG",
+    year: 1990,
+    director: "Akira Kurosawa",
+    cast: ["Akira Terao", "Mitsuko Baishô", "Toshie Negishi", "Mieko Harada", ],
+    synopsis: "A collection of tales based upon eight of director Akira Kurosawa's recurring dreams.",
+    whyWatch: "A visually stunning and deeply personal film that brings Akira Kurosawa’s own dreams to life through eight vivid, imaginative vignettes. Each segment explores themes like childhood wonder, nature, art, war, and mortality, creating a poetic journey that feels both intimate and universal. The film’s blend of striking imagery, practical effects, and gentle storytelling makes it a meditative, immersive experience, and its emotional honesty offers a rare glimpse into the inner world of one of cinema’s greatest directors.",
+    posterUrl: dreamsPoster,
+    rating: "7.7/10", 
+    genres: ["Dark Fantasy, ", "Costume Drama, ", "Psychological Drama ", ],
+    duration: "119 min",
+    language: "Japanese, French, English (with English subs) ",
+    link: "https://www.youtube.com/watch?v=4jx0qMG_0ss",
     }
 
 
