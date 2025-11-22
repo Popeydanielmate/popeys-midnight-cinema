@@ -22,7 +22,8 @@ import babadookPoster from "../assets/babadookPoster.webp";
 import babadook_modalcover from "../assets/babadook_modalcover.avif";
 import solarisPoster from "../assets/solarisPoster.webp";
 import solaris_modalcover from "../assets/solaris_modalcover.jpg";
-
+import eyesWithoutAFacePoster from "../assets/eyesWithoutAFacePoster.jpg";
+import eyesWithoutAFace_modalcover from "../assets/eyesWithoutAFace_modalcover.png";
 
 const movies = [
   {
@@ -239,6 +240,24 @@ const movies = [
     duration: "167 min",
     language: "Russian (with English subs) ",
     link: "https://www.youtube.com/watch?v=Z8ZhQPaw4rE",
+    },
+
+    {
+    id: 13,
+    title: "Eyes Without A Face",
+    coverPhoto: eyesWithoutAFace_modalcover,
+    classification: "M",
+    year: 1960,
+    director: "Georges Franju",
+    cast: ["Pierre Brasseur", "Alida Valli", "Juliette Mayniel", "Alexandre Rignault", ],
+    synopsis: "A surgeon causes a car accident which leaves his daughter disfigured and goes to extreme lengths to give her a new face.",
+    whyWatch: "A beautifully eerie and surprisingly emotional horror film that blends poetic visuals with unsettling body horror. Instead of relying on shock value, it creates a haunting atmosphere as it follows a guilt-ridden surgeon who will do anything to restore his daughter’s disfigured face, leading to increasingly disturbing experiments. The film is both chilling and tragic, exploring themes of obsession, identity, and the limits of parental love. Its elegant style, haunting imagery, and ahead-of-its-time approach make it a standout classic in psychological horror.",
+    posterUrl: eyesWithoutAFacePoster,
+    rating: "7.6/10", 
+    genres: ["Body Horror, ", "Psychological Drama, ", ],
+    duration: "90 min",
+    language: "French (with English subs) ",
+    link: "https://www.youtube.com/watch?v=K_xgLU6jft0",
     }
 
 
