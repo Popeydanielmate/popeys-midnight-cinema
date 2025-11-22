@@ -23,13 +23,13 @@ function Header() {
           <div className="header-block">
           <p>
             Got a film suggestion or found a broken link?<br />
-            Email us at: ✉️ <a href="mailto:popeydaniel@hotmail.com" className="email-button">popeydaniel@hotmail.com</a>
+            Email us at: <a href="mailto:popeydaniel@hotmail.com" className="email-button">✉️ popeydaniel@hotmail.com</a>
           </p>
         </div>
 
         <div className="header-block">
           <p>
-            This site will always be free — but your potential support would give us more time to find more cult cinema gems, upkeep, and improve the quality of the site, consider buying us a coffee.
+            This site will always be free — but your potential support would give us more time to curate and procure more cult cinema gems, upkeep, and improve the quality of the site.
           </p>
           <a 
             href="https://www.buymeacoffee.com/" 
