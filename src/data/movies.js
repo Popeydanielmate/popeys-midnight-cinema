@@ -24,6 +24,8 @@ import solarisPoster from "../assets/solarisPoster.webp";
 import solaris_modalcover from "../assets/solaris_modalcover.jpg";
 import eyesWithoutAFacePoster from "../assets/eyesWithoutAFacePoster.jpg";
 import eyesWithoutAFace_modalcover from "../assets/eyesWithoutAFace_modalcover.png";
+import wishmasterPoster from "../assets/wishmasterPoster.webp";
+import wishmaster_modalcover from "../assets/wishmaster_modalcover.webp";
 
 const movies = [
   {
@@ -258,6 +260,24 @@ const movies = [
     duration: "90 min",
     language: "French (with English subs) ",
     link: "https://www.youtube.com/watch?v=K_xgLU6jft0",
+    },
+
+    {
+    id: 14,
+    title: "Wishmaster",
+    coverPhoto: wishmaster_modalcover,
+    classification: "MA15+",
+    year: 1997,
+    director: "Robert Kurtzman",
+    cast: ["Andrew Divoff", "Tammy Lauren", "Angus Scrimm", "Robert Englund", ],
+    synopsis: "A demonic djinn attempts to grant its owner three wishes, which will allow him to summon his brethren to Earth.",
+    whyWatch: "It’s a gleefully over-the-top, effects-driven slice of ’90s horror that fully embraces its B-movie identity. Filled with practical gore, cheesy one-liners, and a villain who clearly loves being evil, it delivers a fun, fast-paced ride if you go in with the right expectations. The film blends mythological fantasy with creature-feature chaos, and part of the charm is how unapologetically big, loud, and ridiculous it is. If you temper your expectations and watch it as a campy horror romp rather than a serious fright film, you’ll have a surprisingly good time.",
+    posterUrl: wishmasterPoster,
+    rating: "5.9/10", 
+    genres: ["Body Horror, ", "Supernatural Horror, ", "Fantasy ", ],
+    duration: "90 min",
+    language: "English ",
+    link: "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d77683454f42c001f8c4390",
     }
 
 
