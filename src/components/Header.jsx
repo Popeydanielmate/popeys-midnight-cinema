@@ -32,7 +32,7 @@ function Header() {
             This site will always be free — but your potential support would give us more time to curate and procure more cult cinema gems, upkeep, and improve the quality of the site.
           </p>
           <a 
-            href="https://www.buymeacoffee.com/" 
+            href="https://buymeacoffee.com/popeymate" 
             target="_blank" 
             rel="noreferrer"
             className="donate-button"
