@@ -30,6 +30,10 @@ import tenCanoesPoster from "../assets/tenCanoesPoster.jpg";
 import tenCanoes_modalcover from "../assets/tenCanoes_modalcover.jpg";
 import dreamsPoster from "../assets/dreamsPoster.jpg";
 import dreams_modalcover from "../assets/dreams_modalcover.jpg";
+import hardToBeAGodPoster from "../assets/hardToBeAGodPoster.png";
+import hardToBeAGod_modalcover from "../assets/hardToBeAGod_modalcover.jpg";
+import holyMountainPoster from "../assets/holyMountainPoster.jpg";
+import holyMountain_modalcover from "../assets/holyMountain_modalcover.jpg";
 
 const movies = [
   {
@@ -318,6 +322,42 @@ const movies = [
     duration: "119 min",
     language: "Japanese, French, English (with English subs) ",
     link: "https://www.youtube.com/watch?v=4jx0qMG_0ss",
+    },
+
+    {
+    id: 17,
+    title: "Hard To Be A God",
+    coverPhoto: hardToBeAGod_modalcover,
+    classification: "R18+",
+    year: 2013,
+    director: "Aleksei German",
+    cast: ["Leonid Yarmolnik", "Aleksandr Chutko", "Yuriy Tsurilo", "Evgeniy Gerchakov", ],
+    synopsis: "In the distant future, a space traveler from Earth breaks a special law and interferes with the history of another, Medieval-like planet.",
+    whyWatch: "One of the most immersive, brutal, and ambitious science-fiction films ever made—more like being dropped into another world than watching a story unfold. Shot in gritty black and white, it plunges you into a medieval planet where intellectual progress has been violently crushed, creating a suffocating, chaotic atmosphere that’s both horrifying and mesmerizing. Rather than explaining itself, the film makes you feel the mud, the decay, and the madness firsthand, turning its philosophical themes into a visceral experience. It’s challenging, overwhelming, and unlike anything else—an unforgettable journey for viewers willing to dive into its raw, uncompromising vision.",
+    posterUrl: hardToBeAGodPoster,
+    rating: "6.5/10", 
+    genres: ["Sci Fi, ", "Drama, ", ],
+    duration: "177 min",
+    language: "Russian (with English subs) ",
+    link: "https://www.youtube.com/watch?v=nP4KSXq5V7E",
+    },
+
+    {
+    id: 18,
+    title: "Holy Mountain",
+    coverPhoto: holyMountain_modalcover,
+    classification: "R18+",
+    year: 1973,
+    director: "Alejandro Jodorowsky",
+    cast: ["Alejandro Jodorowsky", "Zamira Saunders", "Horacio Salinas", "Juan Ferrara", ],
+    synopsis: "In a corrupt, greed-fueled world, a powerful alchemist leads a messianic character and seven materialistic figures to the Holy Mountain, where they hope to achieve enlightenment.",
+    whyWatch: "One of the boldest, strangest, and most visually spectacular films ever made—a surreal, symbolic journey that mixes satire, spirituality, and psychedelic imagery in a way only Alejandro Jodorowsky could create. Instead of offering a traditional plot, the film uses striking, often shocking tableaux to explore themes like materialism, religion, power, and enlightenment, making it feel more like a cinematic ritual than a narrative. It’s provocative, funny, bizarre, and wildly inventive, and even if you don’t understand every symbol, the experience is unforgettable. If you enjoy films that challenge, mesmerize, and push boundaries, this is essential viewing.",
+    posterUrl: holyMountainPoster,
+    rating: "7.7/10", 
+    genres: ["Epic, ", "Psychological Drama, ", " Quest ", ],
+    duration: "114 min",
+    language: "Spanish (with English subs) ",
+    link: "https://www.youtube.com/watch?v=KO9bjf0Dytw",
     }
 
 
