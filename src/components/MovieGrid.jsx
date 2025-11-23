@@ -1,13 +1,15 @@
 
 import MovieCard from "./MovieCard";
 
-function MovieGrid({ movies }) {
+function MovieGrid({ movies, disableSort = false }) {
+
+  const movieList = disableSort
+    ? movies
+    : [...movies].sort((a, b) => a.title.localeCompare(b.title));
+
   return (
     <div className="movie-grid">
-      {[...movies]
-        .sort((a, b) => a.title.localeCompare(b.title))
-        .map(movie => (
-
+      {movieList.map(movie => (
         <MovieCard key={movie.id} movie={movie} />
       ))}
     </div>
@@ -15,3 +17,4 @@ function MovieGrid({ movies }) {
 }
 
 export default MovieGrid;
+
