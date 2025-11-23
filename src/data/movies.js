@@ -38,6 +38,8 @@ import nosferatuPoster from "../assets/nosferatuPoster.webp";
 import nosferatu_modalcover from "../assets/nosferatu_modalcover.webp";
 import silverGlobePoster from "../assets/silverGlobePoster.jpg";
 import silverGlobe_modalcover from "../assets/silverGlobe_modalcover.jpg";
+import personaPoster from "../assets/personaPoster.jpg";
+import persona_modalcover from "../assets/persona_modalcover.webp";
 
 const movies = [
   {
@@ -398,6 +400,24 @@ const movies = [
     duration: "165 min",
     language: "Polish (with English subs) ",
     link: "https://www.youtube.com/watch?v=cKh1D8wwJuM",
+    },
+
+    {
+    id: 21,
+    title: "Persona",
+    coverPhoto: persona_modalcover,
+    classification: "M",
+    year: 1966,
+    director: "Ingmar Bergman",
+    cast: ["Bibi Andersson", "Liv Ullmann", "Margaretha Krook", "Gunnar Björnstrand", ],
+    synopsis: "A nurse is put in charge of a mute actress and finds that their personae are melding together.",
+    whyWatch: "One of the most mesmerizing and psychologically rich films ever made, blending intimate character drama with bold, experimental filmmaking. Ingmar Bergman uses the intense relationship between an actress who has stopped speaking and the nurse caring for her to explore identity, guilt, desire, and the blurred boundaries between people. With striking black-and-white imagery, haunting sound design, and two unforgettable performances, the film feels both mysterious and emotionally raw.",
+    posterUrl: personaPoster,
+    rating: "8.0/10", 
+    genres: ["Psychological Drama, ", "Thriller, ", ],
+    duration: "85 min",
+    language: "Swedish (with English auto sub option) ",
+    link: "https://www.youtube.com/watch?v=Fekv0v1wvaI",
     }
 
 
