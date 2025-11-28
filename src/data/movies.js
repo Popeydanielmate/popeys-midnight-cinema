@@ -46,6 +46,8 @@ import entertheVoidPoster from "../assets/entertheVoidPoster.webp";
 import entertheVoid_modalcover from "../assets/entertheVoid_modalcover.jpg";
 import IStandAlonePoster from "../assets/IStandAlonePoster.jpg";
 import IStandAlone_modalcover from "../assets/StandAlone_modalcover.jpg";
+import slackerPoster from "../assets/slackerPoster.jpg";
+import slacker_modalcover from "../assets/slacker_modalcover.jpg";
 
 const movies = [
   {
@@ -478,6 +480,24 @@ const movies = [
     duration: "93 min",
     language: "French (with English subs) ",
     link: "https://www.youtube.com/watch?v=fGc5OCRTkMY",
+    },
+
+    {
+    id: 25,
+    title: "Slacker",
+    coverPhoto: slacker_modalcover,
+    classification: "M",
+    year: 1990,
+    director: "Richard Linklater",
+    cast: ["Jean Caffeine", "Rudy Basquez", "Stephan Hockey", "Mark James", ],
+    synopsis: "A day in the life of Austin, Texas as the camera roams from place to place and provides a brief look at the overeducated, the social misfits, the outcasts and the oddballs.",
+    whyWatch: "A uniquely laid-back, endlessly curious portrait of a single day in Austin, drifting from one oddball character to the next without ever settling into a traditional plot. Richard Linklater captures a generation’s spirit of aimlessness, creativity, and countercultural thought in a way that feels authentic, funny, and strangely hypnotic. Its roaming structure and naturalistic conversations create the sense of eavesdropping on a real, living city full of dreamers, obsessives, and philosophers. If you enjoy unconventional films that value personality, ideas, and atmosphere over story, Slacker is a refreshing, fascinating experience.",
+    posterUrl: slackerPoster,
+    rating: "7.0/10", 
+    genres: ["Satire, ", "Dark Comedy ", ],
+    duration: "98 min",
+    language: "English (with multi-language subs) ",
+    link: "https://www.youtube.com/watch?v=_AvBet0hTRo",
     }
 
 
