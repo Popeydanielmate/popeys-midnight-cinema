@@ -40,6 +40,8 @@ import silverGlobePoster from "../assets/silverGlobePoster.jpg";
 import silverGlobe_modalcover from "../assets/silverGlobe_modalcover.jpg";
 import personaPoster from "../assets/personaPoster.jpg";
 import persona_modalcover from "../assets/persona_modalcover.webp";
+import hardrockZombiesPoster from "../assets/hardrockZombiesPoster.webp";
+import hardrockZombies_modalcover from "../assets/hardrockZombies_modalcover.jpg";
 
 const movies = [
   {
@@ -418,6 +420,24 @@ const movies = [
     duration: "85 min",
     language: "Swedish (with English auto sub option) ",
     link: "https://www.youtube.com/watch?v=Fekv0v1wvaI",
+    },
+
+    {
+    id: 22,
+    title: "Hardrock Zombies",
+    coverPhoto: hardrockZombies_modalcover,
+    classification: "M",
+    year: 1984,
+    director: "Krishna Shah",
+    cast: ["E.J. Curse", "Geno Andrews", "Lisa Toothman", "Sam Mann", ],
+    synopsis: "A hard rock band travels to the tiny and remote town of Grand Guignol to perform. Peopled by hicks, rubes, werewolves, murderous dwarves, sex perverts, and Hitler, the town is a strange place but that doesn't stop the band's lead singer from falling in love with a local girl named Cassie. After Nazi sex perverts kill the band to satisfy their lusts, Cassie calls the rockers back from the grave to save her, the town, and maybe the world.",
+    whyWatch: "A gloriously chaotic, low-budget blend of horror, comedy, rock music, and pure ’80s weirdness that feels like it was made on a dare. The plot (which involves a rock band, zombies, a murderous family, and even a bizarre Hitler subplot) is so wild and random that it becomes part of the charm, and the movie leans into its own absurdity with complete sincerity. If you enjoy campy cult films, unexpected WTF moments, and movies that are more about the experience than the logic, this one delivers a strangely memorable, so-bad-it’s-good ride.",
+    posterUrl: hardrockZombiesPoster,
+    rating: "4.5/10", 
+    genres: ["Horror, ", "Comedy, ", ],
+    duration: "97 min",
+    language: "English ",
+    link: "https://tubitv.com/movies/100013619/hard-rock-zombies",
     }
 
 
