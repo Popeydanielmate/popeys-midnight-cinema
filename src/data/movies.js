@@ -42,6 +42,8 @@ import personaPoster from "../assets/personaPoster.jpg";
 import persona_modalcover from "../assets/persona_modalcover.webp";
 import hardrockZombiesPoster from "../assets/hardrockZombiesPoster.webp";
 import hardrockZombies_modalcover from "../assets/hardrockZombies_modalcover.jpg";
+import entertheVoidPoster from "../assets/entertheVoidPoster.webp";
+import entertheVoid_modalcover from "../assets/entertheVoid_modalcover.jpg";
 
 const movies = [
   {
@@ -438,7 +440,26 @@ const movies = [
     duration: "97 min",
     language: "English ",
     link: "https://tubitv.com/movies/100013619/hard-rock-zombies",
+    },
+
+    {
+    id: 23,
+    title: "Enter The Void",
+    coverPhoto: entertheVoid_modalcover,
+    classification: "R18+",
+    year: 2009,
+    director: "Gaspar Noe",
+    cast: ["Nathaniel Brown", "Paz de la Huerta", "Cyril Roy", "Olly Alexander", ],
+    synopsis: "An American drug dealer living in Tokyo is betrayed by his best friend and killed in a drug deal. His soul, observing the repercussions of his death, seeks resurrection.",
+    whyWatch: "Bold, hypnotic, and technically astonishing film that plunges you into a first-person, out-of-body journey through life, death, and memory. Gaspar Noé uses neon-soaked visuals, long unbroken shots, and a drifting, immersive camera style to create the feeling of floating through Tokyo and beyond, making the film as much an experience as a story. It’s intense, emotional, and often unsettling, but also strangely beautiful in its exploration of connection, trauma, and transcendence.",
+    posterUrl: entertheVoidPoster,
+    rating: "7.2/10", 
+    genres: ["Dark Fantasy, ", "Psychological Drama, ", ],
+    duration: "142 min",
+    language: "English, Japanese ",
+    link: "https://www.youtube.com/watch?v=ELmn-bZsSbw",
     }
+
 
 
 
