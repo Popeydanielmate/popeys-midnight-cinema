@@ -44,6 +44,8 @@ import hardrockZombiesPoster from "../assets/hardrockZombiesPoster.webp";
 import hardrockZombies_modalcover from "../assets/hardrockZombies_modalcover.jpg";
 import entertheVoidPoster from "../assets/entertheVoidPoster.webp";
 import entertheVoid_modalcover from "../assets/entertheVoid_modalcover.jpg";
+import IStandAlonePoster from "../assets/IStandAlonePoster.jpg";
+import IStandAlone_modalcover from "../assets/StandAlone_modalcover.jpg";
 
 const movies = [
   {
@@ -458,6 +460,24 @@ const movies = [
     duration: "142 min",
     language: "English, Japanese ",
     link: "https://www.youtube.com/watch?v=ELmn-bZsSbw",
+    },
+
+    {
+    id: 24,
+    title: "I Stand Alone",
+    coverPhoto: IStandAlone_modalcover,
+    classification: "R18+",
+    year: 1998,
+    director: "Gaspar Noe",
+    cast: ["Philippe Nahon", "Blandine Lenoir", "Frankie Pain", "Martine Audrain", ],
+    synopsis: "A horse butcher's life and mind begin to break down as he lashes out against various factions of society while attempting to reconnect with his estranged daughter.",
+    whyWatch: "Raw, confrontational, and emotionally intense films—a bleak character study that forces you into the mind of a man collapsing under anger, isolation, and despair. Told through a mix of harsh narration, sharp editing, and an unforgivingly close perspective, the film doesn’t glamorize or excuse its protagonist but instead examines how bitterness and alienation can twist a person’s worldview. It’s challenging, uncomfortable, and deliberately provocative, yet also gripping and thought-provoking for viewers who appreciate cinema that pushes boundaries and digs into the darkest corners of human psychology.",
+    posterUrl: IStandAlonePoster,
+    rating: "7.3/10", 
+    genres: ["Crime, ", "Psychological Drama, ", ],
+    duration: "93 min",
+    language: "French (with English subs) ",
+    link: "https://www.youtube.com/watch?v=fGc5OCRTkMY",
     }
 
 
