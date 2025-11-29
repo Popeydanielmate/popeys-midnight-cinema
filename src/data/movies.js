@@ -52,6 +52,8 @@ import possessionPoster from "../assets/possessionPoster.webp";
 import possession_modalcover from "../assets/possession_modalcover.avif";
 import hellstromChroniclePoster from "../assets/hellstromChroniclePoster.jpg";
 import hellstromchronicle_modalcover from "../assets/hellstromchronicle_modalcover.jpg";
+import seventhSealPoster from "../assets/seventhSealPoster.webp";
+import seventhseal_modalcover from "../assets/seventhseal_modalcover.jpg";
 
 const movies = [
   {
@@ -538,6 +540,24 @@ const movies = [
     duration: "90 min",
     language: "English ",
     link: "https://www.youtube.com/watch?v=BXmYQw4xGVc",
+    },
+
+    {
+    id: 28,
+    title: "Seventh Seal",
+    coverPhoto: seventhseal_modalcover,
+    classification: "PG",
+    year: 1957,
+    director: "Ingmar Bergman",
+    cast: ["Max von Sydow", "Bengt Ekerot", "Gunnar Björnstrand", "Nils Poppe", ],
+    synopsis: "A knight returning to Sweden after the Crusades seeks answers about life, death, and the existence of God as he plays chess against the Grim Reaper during the Black Plague.",
+    whyWatch: "One of cinema’s most iconic meditations on life, death, and meaning, told through haunting imagery and surprisingly human moments. Ingmar Bergman follows a weary knight who plays a literal game of chess with Death while searching for purpose in a world ravaged by plague, creating a film that’s philosophical without being pretentious and bleak yet filled with warmth and dark humor.",
+    posterUrl: seventhSealPoster,
+    rating: "8.1/10", 
+    genres: ["Dark Comedy, ", "Period Drama ", ],
+    duration: "96 min",
+    language: "Swedish (with English subs) ",
+    link: "https://www.youtube.com/watch?v=iUXBevWxjbA",
     }
 
 
