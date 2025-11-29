@@ -14,7 +14,7 @@ function Header() {
           <div className="header-block header-text-block">
           <p>
             A free streaming corner for lovers of 
-            cult, horror, exploitation, forgotten arthouse, and everything weird in-between.
+            cult, horror, exploitation, forgotten arthouse, and everything in-between.
             If your taste sits somewhere between <em>Mubi</em> and <em>Shudder</em>, you’re home.
           </p>
         </div>
