@@ -50,6 +50,8 @@ import slackerPoster from "../assets/slackerPoster.jpg";
 import slacker_modalcover from "../assets/slacker_modalcover.jpg";
 import possessionPoster from "../assets/possessionPoster.webp";
 import possession_modalcover from "../assets/possession_modalcover.avif";
+import hellstromChroniclePoster from "../assets/hellstromChroniclePoster.jpg";
+import hellstromchronicle_modalcover from "../assets/hellstromchronicle_modalcover.jpg";
 
 const movies = [
   {
@@ -518,7 +520,27 @@ const movies = [
     duration: "124 min",
     language: "English ",
     link: "https://www.youtube.com/watch?v=47oLeSb5IOw",
+    },
+
+    {
+    id: 27,
+    title: "Hellstrom Chronicle",
+    coverPhoto: hellstromchronicle_modalcover,
+    classification: "PG",
+    year: 1971,
+    director: "Walon Green, Ed Spiegel",
+    cast: ["Lawrence Pressman", "Ian McShane", "Conlan Carter", "Suzanne Pleshette", ],
+    synopsis: "A scientist explains how the savagery and efficiency of the insect world could result in their taking over the world.",
+    whyWatch: "Wildly unique blend of nature documentary and sci-fi horror, presenting real insect footage with a dramatic, apocalyptic narration that makes the natural world feel both awe-inspiring and terrifying. Its mix of stunning macro cinematography and eerie commentary turns everyday creatures into something almost alien, giving the film an atmosphere unlike any other documentary of its time. It’s strange, gripping, and surprisingly thought-provoking, offering a creative, unforgettable look at how insects shape the planet—and what their resilience might mean for humanity’s future.",
+    posterUrl: hellstromChroniclePoster,
+    rating: "7.3/10", 
+    genres: ["Documentary, ", "Drama ", ],
+    duration: "90 min",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=BXmYQw4xGVc",
     }
+
+
 
 
 
