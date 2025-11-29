@@ -48,6 +48,8 @@ import IStandAlonePoster from "../assets/IStandAlonePoster.jpg";
 import IStandAlone_modalcover from "../assets/StandAlone_modalcover.jpg";
 import slackerPoster from "../assets/slackerPoster.jpg";
 import slacker_modalcover from "../assets/slacker_modalcover.jpg";
+import possessionPoster from "../assets/possessionPoster.webp";
+import possession_modalcover from "../assets/possession_modalcover.avif";
 
 const movies = [
   {
@@ -498,6 +500,24 @@ const movies = [
     duration: "98 min",
     language: "English (with multi-language subs) ",
     link: "https://www.youtube.com/watch?v=_AvBet0hTRo",
+    },
+
+    {
+    id: 26,
+    title: "Possession",
+    coverPhoto: possession_modalcover,
+    classification: "R18+",
+    year: 1981,
+    director: "Andrzej Zulawski",
+    cast: ["Isabelle Adjani", "Sam Neill", "Margit Carstensen", "Heinz Bennent", ],
+    synopsis: "A woman starts exhibiting increasingly disturbing behavior after asking her husband for a divorce. Suspicions of infidelity soon give way to something much more sinister.",
+    whyWatch: "One of the most intense, unsettling, and emotionally explosive horror films ever made—an unhinged blend of psychological drama, surreal imagery, and full-throttle performances. Andrzej Żuławski turns a collapsing marriage into a nightmarish descent where jealousy, identity, and madness blur together, anchored by Isabelle Adjani’s legendary, ferocious performance. The film’s mix of raw emotion, eerie atmosphere, and bizarre, unforgettable twists makes it unlike anything else from the era.",
+    posterUrl: possessionPoster,
+    rating: "7.2/10", 
+    genres: ["Psychological Horror, ", "Supernatural Horror ", ],
+    duration: "124 min",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=47oLeSb5IOw",
     }
 
 
