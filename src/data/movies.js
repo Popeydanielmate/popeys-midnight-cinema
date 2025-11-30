@@ -54,6 +54,8 @@ import hellstromChroniclePoster from "../assets/hellstromChroniclePoster.jpg";
 import hellstromchronicle_modalcover from "../assets/hellstromchronicle_modalcover.jpg";
 import seventhSealPoster from "../assets/seventhSealPoster.webp";
 import seventhseal_modalcover from "../assets/seventhseal_modalcover.jpg";
+import valeriePoster from "../assets/valeriePoster.jpg";
+import valerie_modalcover from "../assets/valerie_modalcover.jpg";
 
 const movies = [
   {
@@ -558,6 +560,24 @@ const movies = [
     duration: "96 min",
     language: "Swedish (with English subs) ",
     link: "https://www.youtube.com/watch?v=iUXBevWxjbA",
+    },
+
+    {
+    id: 29,
+    title: "Valerie and Her Week of Wonders",
+    coverPhoto: valerie_modalcover,
+    classification: "MA15+",
+    year: 1970,
+    director: "Jaromil Jires",
+    cast: ["Jaroslava Schallerová", "Helena Anýzová", "Petr Kopriva", "Jirí Prýmek", ],
+    synopsis: "Follows a young girl named Valerie who, after receiving a pair of magical earrings, is drawn into a series of dreamlike encounters involving vampires, masked figures, and shifting identities in her village. As she navigates these strange, symbolic events, the line between innocence and adulthood blurs, creating a surreal coming-of-age journey where fears, desires, and fantasies collide. It’s part fairy tale, part gothic horror, and part dream, told through vivid, poetic imagery rather than straightforward logic.",
+    whyWatch: "Instead of following a conventional plot, it immerses you in Valerie’s inner world—her fears, desires, and imagination—creating a mood that’s both haunting and beautiful. If you enjoy visually rich, imaginative films that feel more like dreams than stories, this one is a must-see.",
+    posterUrl: valeriePoster,
+    rating: "7.0/10", 
+    genres: ["Dark Fantasy, ", "Folk Horror ", ],
+    duration: "77 min",
+    language: "Czech (with English subs) ",
+    link: "https://ok.ru/video/2244203579990",
     }
 
 
