@@ -631,7 +631,7 @@ const movies = [
     director: "Fritz Lang",
     cast: ["Brigitte Helm", "Alfred Abel", "Gustav Fröhlich", "Rudolf Klein-Rogge", ],
     synopsis: "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
-    whyWatch: "Masterfully crafted slow-burn horror film that starts as a quiet, emotional drama and gradually transforms into one of the most unsettling and unforgettable thrillers ever made. Takashi Miike uses patience and subtlety to build tension, drawing you into a seemingly gentle love story before revealing layers of trauma, obsession, and dread. Its shocking final act hits so hard precisely because the film earns it through atmosphere and character.",
+    whyWatch: "Groundbreaking sci-fi epic that still feels visually stunning and thematically relevant nearly a century later. Fritz Lang’s towering cityscapes, dramatic lighting, and imaginative machinery helped define the look of science fiction, while the story explores class struggle, technology, and the human cost of progress in a way that resonates today. Not just a silent-era classic, but one of the most influential films ever made.",
     posterUrl: metropolisPoster,
     rating: "8.3/10", 
     genres: ["Dystopian Sci Fi, ", "Epic ", ],
