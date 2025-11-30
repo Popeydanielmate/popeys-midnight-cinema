@@ -58,6 +58,8 @@ import valeriePoster from "../assets/valeriePoster.jpg";
 import valerie_modalcover from "../assets/valerie_modalcover.jpg";
 import psychoGoremanPoster from "../assets/psychoGoremanPoster.jpg";
 import psychogoreman_modalcover from "../assets/psychogoreman_modalcover.webp";
+import auditionPoster from "../assets/auditionPoster.webp";
+import audition_modalcover from "../assets/audition_modalcover.jpeg";
 
 const movies = [
   {
@@ -598,6 +600,24 @@ const movies = [
     duration: "95 min",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252457-3353067/fcb9c3bec3cd3d5e57a6a6021741cbb2-3294333-3395272",
+    },
+
+    {
+    id: 31,
+    title: "Audition",
+    coverPhoto: audition_modalcover,
+    classification: "R18+",
+    year: 1999,
+    director: "Takashi Miike",
+    cast: ["Eihi Shiina", "Ryô Ishibashi", "Tetsu Sawaki", "Jun Kunimura", ],
+    synopsis: "A widower has his film producer friend organize a fake audition as a means of helping him find a new girlfriend, but the woman he selects is not who she appears to be.",
+    whyWatch: "Masterfully crafted slow-burn horror film that starts as a quiet, emotional drama and gradually transforms into one of the most unsettling and unforgettable thrillers ever made. Takashi Miike uses patience and subtlety to build tension, drawing you into a seemingly gentle love story before revealing layers of trauma, obsession, and dread. Its shocking final act hits so hard precisely because the film earns it through atmosphere and character.",
+    posterUrl: auditionPoster,
+    rating: "7.1/10", 
+    genres: ["Psychological Horror, ", "Body Horror ", ],
+    duration: "115 min",
+    language: "Japanese (with English subs) ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3251989-3352599/371d52a8c60cb100ed7ebd69c20765eb-3117214-3216951",
     }
 
 
