@@ -60,6 +60,8 @@ import psychoGoremanPoster from "../assets/psychoGoremanPoster.jpg";
 import psychogoreman_modalcover from "../assets/psychogoreman_modalcover.webp";
 import auditionPoster from "../assets/auditionPoster.webp";
 import audition_modalcover from "../assets/audition_modalcover.jpeg";
+import metropolisPoster from "../assets/metropolisPoster.jpg";
+import metropolis_modalcover from "../assets/metropolis_modalcover.jpg";
 
 const movies = [
   {
@@ -618,6 +620,24 @@ const movies = [
     duration: "115 min",
     language: "Japanese (with English subs) ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3251989-3352599/371d52a8c60cb100ed7ebd69c20765eb-3117214-3216951",
+    },
+
+    {
+    id: 32,
+    title: "Metropolis",
+    coverPhoto: metropolis_modalcover,
+    classification: "PG",
+    year: 1927,
+    director: "Fritz Lang",
+    cast: ["Brigitte Helm", "Alfred Abel", "Gustav Fröhlich", "Rudolf Klein-Rogge", ],
+    synopsis: "In a futuristic city sharply divided between the working class and the city planners, the son of the city's mastermind falls in love with a working-class prophet who predicts the coming of a savior to mediate their differences.",
+    whyWatch: "Masterfully crafted slow-burn horror film that starts as a quiet, emotional drama and gradually transforms into one of the most unsettling and unforgettable thrillers ever made. Takashi Miike uses patience and subtlety to build tension, drawing you into a seemingly gentle love story before revealing layers of trauma, obsession, and dread. Its shocking final act hits so hard precisely because the film earns it through atmosphere and character.",
+    posterUrl: metropolisPoster,
+    rating: "8.3/10", 
+    genres: ["Dystopian Sci Fi, ", "Epic ", ],
+    duration: "143 min",
+    language: "English ",
+    link: "https://tubitv.com/movies/666318/metropolis",
     }
 
 
