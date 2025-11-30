@@ -56,6 +56,8 @@ import seventhSealPoster from "../assets/seventhSealPoster.webp";
 import seventhseal_modalcover from "../assets/seventhseal_modalcover.jpg";
 import valeriePoster from "../assets/valeriePoster.jpg";
 import valerie_modalcover from "../assets/valerie_modalcover.jpg";
+import psychoGoremanPoster from "../assets/psychoGoremanPoster.jpg";
+import psychogoreman_modalcover from "../assets/psychogoreman_modalcover.webp";
 
 const movies = [
   {
@@ -578,6 +580,24 @@ const movies = [
     duration: "77 min",
     language: "Czech (with English subs) ",
     link: "https://ok.ru/video/2244203579990",
+    },
+
+    {
+    id: 30,
+    title: "Psycho Goreman",
+    coverPhoto: psychogoreman_modalcover,
+    classification: "MA15+",
+    year: 2020,
+    director: "Steven Kostanski",
+    cast: ["Nita-Josée Hanna", "Owen Myre", "Matthew Ninaber", "Adam Brooks", ],
+    synopsis: "After unearthing a gem that controls an evil monster looking to destroy the Universe, a young girl and her brother use it to make him do their bidding.",
+    whyWatch: "Wildly fun, self-aware mashup of gory sci-fi horror and goofy ’90s kids-movie energy, delivered with full commitment to its own absurdity. It plays like Power Rangers mixed with splatter comedy, where cosmic evil meets suburban chaos in the most ridiculous ways possible. The practical effects, creature designs, and over-the-top humor give it a joyful, handmade charm, and the film never takes itself too seriously—making it perfect if you want something outrageous, creative, and flat-out entertaining. If you enjoy horror with a big sense of fun, this one’s a blast.",
+    posterUrl: psychoGoremanPoster,
+    rating: "6.3/10", 
+    genres: ["Dark Comedy, ", "Body Horror ", ],
+    duration: "95 min",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252457-3353067/fcb9c3bec3cd3d5e57a6a6021741cbb2-3294333-3395272",
     }
 
 
