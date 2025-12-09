@@ -62,6 +62,8 @@ import auditionPoster from "../assets/auditionPoster.webp";
 import audition_modalcover from "../assets/audition_modalcover.jpeg";
 import metropolisPoster from "../assets/metropolisPoster.jpg";
 import metropolis_modalcover from "../assets/metropolis_modalcover.jpg";
+import lawnmowerManPoster from "../assets/lawnmowerManPoster.webp";
+import lawnmower_modalcover from "../assets/lawnmower_modalcover.jpg";
 
 const movies = [
   {
@@ -638,6 +640,24 @@ const movies = [
     duration: "143 min",
     language: "English ",
     link: "https://tubitv.com/movies/666318/metropolis",
+    },
+
+    {
+    id: 33,
+    title: "The Lawnmower Man",
+    coverPhoto: lawnmower_modalcover,
+    classification: "M",
+    year: 1992,
+    director: "Brett Leonard",
+    cast: ["Jeff Fahey", "Pierce Brosnan", "Jenny Wright", "Mark Bringelson", ],
+    synopsis: "A scientist performs experiments involving intelligence enhancing drugs and virtual reality on a simple-minded gardener. He puts the gardener on an extensive schedule of learning, and quickly he becomes brilliant. But at this point the gardener has a few ideas of his own on how the research should continue, and the scientist begins losing control of his experiments.",
+    whyWatch: "Pure, unfiltered early-’90s sci-fi cheese—the kind that’s so earnest and over-the-top that it loops back around into being wildly entertaining. Its hilariously dated CGI, melodramatic performances, and bonkers “virtual reality will evolve humanity” storyline make it an experience, especially if you go in expecting camp rather than sophistication. It’s the kind of movie where every creative decision was made with absolute seriousness, yet the result feels like a time capsule of tech paranoia, neon aesthetics, and accidental comedy gold. Watch it for the spectacle, the weirdness, and the delight of seeing just how far a studio once thought VR could go.",
+    posterUrl: lawnmowerManPoster,
+    rating: "5.4/10", 
+    genres: ["Sci Fi, ", "Cyberpunk ", ],
+    duration: "141 min (Director's cut)",
+    language: "English ",
+    link: "https://tubitv.com/movies/601184/the-lawnmower-man-director-s-cut",
     }
 
 
