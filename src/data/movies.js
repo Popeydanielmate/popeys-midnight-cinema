@@ -64,6 +64,8 @@ import metropolisPoster from "../assets/metropolisPoster.jpg";
 import metropolis_modalcover from "../assets/metropolis_modalcover.jpg";
 import lawnmowerManPoster from "../assets/lawnmowerManPoster.webp";
 import lawnmower_modalcover from "../assets/lawnmower_modalcover.jpg";
+import lawnmower2Poster from "../assets/lawnmower2Poster.jpg";
+import lawnmower2_modalcover from "../assets/lawnmower2_modalcover.jpg";
 
 const movies = [
   {
@@ -658,6 +660,24 @@ const movies = [
     duration: "141 min (Director's cut)",
     language: "English ",
     link: "https://tubitv.com/movies/601184/the-lawnmower-man-director-s-cut",
+    },
+
+    {
+    id: 34,
+    title: "The Lawnmower Man 2: Beyond Cyberspace",
+    coverPhoto: lawnmower2_modalcover,
+    classification: "M",
+    year: 1995,
+    director: "Farhad Mann",
+    cast: ["Patrick Bergin", "Matt Frewer", "Austin O'Brien", "Ely Pouget", ],
+    synopsis: "They thought they had destroyed him, but the simple gardener-turned-superkiller has found a way to reboot himself",
+    whyWatch: "It takes everything absurd about the first film and cranks it up to truly unhinged, “how did this get made?” levels. It’s even cheesier, even more baffling, and even more detached from reality.",
+    posterUrl: lawnmower2Poster,
+    rating: "2.6/10", 
+    genres: ["Sci Fi, ", "Cyberpunk ", ],
+    duration: "92 min ",
+    language: "English ",
+    link: "https://tubitv.com/movies/675101/lawnmower-man-2-beyond-cyberspace",
     }
 
 
