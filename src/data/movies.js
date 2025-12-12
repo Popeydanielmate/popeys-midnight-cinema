@@ -68,6 +68,8 @@ import lawnmower2Poster from "../assets/lawnmower2Poster.jpg";
 import lawnmower2_modalcover from "../assets/lawnmower2_modalcover.jpg";
 import swordSorcererPoster from "../assets/swordSorcererPoster.jpg";
 import swordsorcerer_modalcover from "../assets/swordsorcerer_modalcover.avif";
+import coldWaterPoster from "../assets/coldWaterPoster.webp";
+import coldwater_modalcover from "../assets/coldwater_modalcover.jpg";
 
 const movies = [
   {
@@ -698,6 +700,24 @@ const movies = [
     duration: "99 min ",
     language: "English ",
     link: "https://tubitv.com/movies/671675/the-sword-and-the-sorcerer",
+    },
+
+    {
+    id: 36,
+    title: "Cold Water",
+    coverPhoto: coldwater_modalcover,
+    classification: "M",
+    year: 1994,
+    director: "Olivier Assayas",
+    cast: ["Virginie Ledoyen", "Cyprien Fouquet", "László Szabó", "Jean-Pierre Darroussin", ],
+    synopsis: "When the girl of a rebelious teenage couple finds out she is being sent away, they both believe escaping the rigid order suffocating them is the only way to be free. But is it?",
+    whyWatch: "Raw, hauntingly intimate portrait of teenage rebellion and emotional freefall, captured with stunning authenticity by Olivier Assayas. The film blends documentary-like realism with poetic intensity as it follows two troubled teens drifting through a world of fractured families, destructive impulses, and fleeting moments of freedom. Its centerpiece—a mesmerizing, near-wordless party sequence scored with era-defining ’70s music—is one of the most powerful depictions of youth adrift ever put on film.",
+    posterUrl: coldWaterPoster,
+    rating: "7.0/10", 
+    genres: ["Drama, ", "Period Drama ", ],
+    duration: "95 min ",
+    language: "French (with English subs) ",
+    link: "https://www.youtube.com/watch?v=Y3aDmH3jocQ",
     }
 
 
