@@ -66,6 +66,8 @@ import lawnmowerManPoster from "../assets/lawnmowerManPoster.webp";
 import lawnmower_modalcover from "../assets/lawnmower_modalcover.jpg";
 import lawnmower2Poster from "../assets/lawnmower2Poster.jpg";
 import lawnmower2_modalcover from "../assets/lawnmower2_modalcover.jpg";
+import swordSorcererPoster from "../assets/swordSorcererPoster.jpg";
+import swordsorcerer_modalcover from "../assets/swordsorcerer_modalcover.avif";
 
 const movies = [
   {
@@ -678,6 +680,24 @@ const movies = [
     duration: "92 min ",
     language: "English ",
     link: "https://tubitv.com/movies/675101/lawnmower-man-2-beyond-cyberspace",
+    },
+
+    {
+    id: 35,
+    title: "The Sword and The Sorcerer",
+    coverPhoto: swordsorcerer_modalcover,
+    classification: "M",
+    year: 1982,
+    director: "Albert Pyun",
+    cast: ["Lee Horsley", "Kathleen Beller", "Simon MacCorkindale", "Anthony De Longis", ],
+    synopsis: "A mercenary with a three-bladed sword rediscovers his royal heritage's dangerous future when he is recruited to help a princess foil the designs of a brutal tyrant and a powerful sorcerer in conquering a land",
+    whyWatch: "one of the most over-the-top fantasy adventures of the VHS era—equal parts rowdy, cheesy, and fun. It delivers everything you want from early ’80s sword-and-sorcery: wild practical effects, a resurrected demon warlord, a truly ridiculous three-bladed projectile-firing sword, pulpy villains, campy heroics, and nonstop “did they really film this?” energy. It’s not refined, but that’s the appeal—it's a raucous cult classic that embraces pure fantasy escapism with a wink",
+    posterUrl: swordSorcererPoster,
+    rating: "5.5/10", 
+    genres: ["Dark Fantasy, ", "Sword & Sorcery ", ],
+    duration: "99 min ",
+    language: "English ",
+    link: "https://tubitv.com/movies/671675/the-sword-and-the-sorcerer",
     }
 
 
