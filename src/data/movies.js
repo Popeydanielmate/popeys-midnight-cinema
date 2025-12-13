@@ -70,6 +70,8 @@ import swordSorcererPoster from "../assets/swordSorcererPoster.jpg";
 import swordsorcerer_modalcover from "../assets/swordsorcerer_modalcover.avif";
 import coldWaterPoster from "../assets/coldWaterPoster.webp";
 import coldwater_modalcover from "../assets/coldwater_modalcover.jpg";
+import borrowerPoster from "../assets/borrowerPoster.jpg";
+import borrower_modalcover from "../assets/borrower_modalcover.jpg";
 
 const movies = [
   {
@@ -693,7 +695,7 @@ const movies = [
     director: "Albert Pyun",
     cast: ["Lee Horsley", "Kathleen Beller", "Simon MacCorkindale", "Anthony De Longis", ],
     synopsis: "A mercenary with a three-bladed sword rediscovers his royal heritage's dangerous future when he is recruited to help a princess foil the designs of a brutal tyrant and a powerful sorcerer in conquering a land",
-    whyWatch: "one of the most over-the-top fantasy adventures of the VHS era—equal parts rowdy, cheesy, and fun. It delivers everything you want from early ’80s sword-and-sorcery: wild practical effects, a resurrected demon warlord, a truly ridiculous three-bladed projectile-firing sword, pulpy villains, campy heroics, and nonstop “did they really film this?” energy. It’s not refined, but that’s the appeal—it's a raucous cult classic that embraces pure fantasy escapism with a wink",
+    whyWatch: "One of the most over-the-top fantasy adventures of the VHS era—equal parts rowdy, cheesy, and fun. It delivers everything you want from early ’80s sword-and-sorcery: wild practical effects, a resurrected demon warlord, a truly ridiculous three-bladed projectile-firing sword, pulpy villains, campy heroics, and nonstop “did they really film this?” energy. It’s not refined, but that’s the appeal—it's a raucous cult classic that embraces pure fantasy escapism with a wink",
     posterUrl: swordSorcererPoster,
     rating: "5.5/10", 
     genres: ["Dark Fantasy, ", "Sword & Sorcery ", ],
@@ -718,6 +720,24 @@ const movies = [
     duration: "95 min ",
     language: "French (with English subs) ",
     link: "https://www.youtube.com/watch?v=Y3aDmH3jocQ",
+    },
+
+    {
+    id: 37,
+    title: "The Borrower",
+    coverPhoto: borrower_modalcover,
+    classification: "M",
+    year: 1991,
+    director: "John McNaughton",
+    cast: ["Rae Dawn Chong", "Don Gordon", "Tom Towles", "Antonio Fargas", ],
+    synopsis: "Aliens punish one of their own by sending him to earth. The alien is very violent, and when the body he occupies is damaged, he is forced to find another.",
+    whyWatch: "Genuinely strange, street-level sci-fi horror that takes a ridiculous idea and plays it with grimy commitment. The film drops an alien criminal into early-’90s Los Angeles and turns body-swapping into a sleazy, night-time chase movie, full of dead-end motels, alleyways, and VHS-era urban decay.",
+    posterUrl: borrowerPoster,
+    rating: "5.3/10", 
+    genres: ["Body Horror, ", "Comedy ", ],
+    duration: "92 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=Al2_rBljTTc",
     }
 
 
