@@ -72,6 +72,8 @@ import coldWaterPoster from "../assets/coldWaterPoster.webp";
 import coldwater_modalcover from "../assets/coldwater_modalcover.jpg";
 import borrowerPoster from "../assets/borrowerPoster.jpg";
 import borrower_modalcover from "../assets/borrower_modalcover.jpg";
+import fearSoulPoster from "../assets/fearSoulPoster.webp";
+import fearsoul_modalcover from "../assets/fearsoul_modalcover.png";
 
 const movies = [
   {
@@ -738,6 +740,24 @@ const movies = [
     duration: "92 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=Al2_rBljTTc",
+    },
+
+    {
+    id: 38,
+    title: "Ali: Fear Eats The Soul",
+    coverPhoto: fearsoul_modalcover,
+    classification: "M",
+    year: 1974,
+    director: "Rainer Werner Fassbinder",
+    cast: ["Brigitte Mira", "El Hedi ben Salem", "Barbara Valentin", "Irm Hermann", ],
+    synopsis: "A lonely widow meets a much younger Moroccan worker in a bar during a rainstorm. They fall in love, to their own surprise and to the outright shock of their families, colleagues, and drinking buddies.",
+    whyWatch: "Quietly devastating love story that exposes everyday prejudice and loneliness with remarkable clarity and compassion. Rainer Werner Fassbinder tells the relationship between an older German woman and a younger Moroccan immigrant in a deliberately simple, restrained style that makes the hostility, judgment, and isolation they face feel painfully real. The film’s formal compositions, measured pacing, and emotional honesty strip the story down to its essentials, revealing how social pressure and internalized fear can corrode even genuine human connection. It’s understated, humane, and deeply moving—a film that says a great deal with very little.",
+    posterUrl: fearSoulPoster,
+    rating: "8.0/10", 
+    genres: ["Political Drama, ", "Romance ", ],
+    duration: "93 min ",
+    language: "German, Arabic (with English subs) ",
+    link: "https://www.youtube.com/watch?v=wXYsf3gwykI",
     }
 
 
