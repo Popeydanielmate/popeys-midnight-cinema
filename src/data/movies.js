@@ -777,7 +777,7 @@ const movies = [
     genres: ["Sci Fi, ", "Comedy ", ],
     duration: "91 min ",
     language: "English ",
-    link: "https://www.youtube.com/watch?v=wXYsf3gwykI",
+    link: "https://www.youtube.com/watch?v=K-ek1xjiVMU",
     }
 
 
