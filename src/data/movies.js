@@ -76,6 +76,8 @@ import fearSoulPoster from "../assets/fearSoulPoster.webp";
 import fearsoul_modalcover from "../assets/fearsoul_modalcover.png";
 import theodoreRexPoster from "../assets/theodoreRexPoster.webp";
 import theodorerex_modalcover from "../assets/theodorerex_modalcover.jpg";
+import ninjaDestroyerPoster from "../assets/ninjaDestroyerPoster.webp";
+import ninjadestroyer_modalcover from "../assets/ninjadestroyer_modalcover.png";
 
 const movies = [
   {
@@ -778,6 +780,24 @@ const movies = [
     duration: "91 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=K-ek1xjiVMU",
+    },
+
+    {
+    id: 40,
+    title: "Ninja Destroyer",
+    coverPhoto: ninjadestroyer_modalcover,
+    classification: "M",
+    year: 1986,
+    director: "Godfrey Ho",
+    cast: ["Na Yen Na", "Surmian Suryoog", "Anne Aswatep", "Bruce Baron", ],
+    synopsis: "A lucrative emerald mine and the various protagonists who are struggling to wrest control of it for their own profitable ends.",
+    whyWatch: "This is a tough sell. Telling you it has white ninjas who seem to have bad Australian accents ain't going to help",
+    posterUrl: ninjaDestroyerPoster,
+    rating: "4.0/10", 
+    genres: ["Action, ", "Adeventure ", ],
+    duration: "81 min ",
+    language: "Cantonese, English ",
+    link: "https://www.youtube.com/watch?v=5Pp4kYmzm1w",
     }
 
 
