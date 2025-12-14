@@ -791,7 +791,7 @@ const movies = [
     director: "Godfrey Ho",
     cast: ["Na Yen Na", "Surmian Suryoog", "Anne Aswatep", "Bruce Baron", ],
     synopsis: "A lucrative emerald mine and the various protagonists who are struggling to wrest control of it for their own profitable ends.",
-    whyWatch: "This is a tough sell. Telling you it has white ninjas who seem to have bad Australian accents ain't going to help",
+    whyWatch: "This is a tough sell. Telling you it has white ninjas who seem to have bad Australian accents ain't going to help either",
     posterUrl: ninjaDestroyerPoster,
     rating: "4.0/10", 
     genres: ["Action, ", "Adeventure ", ],
