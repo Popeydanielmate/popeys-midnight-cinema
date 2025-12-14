@@ -74,6 +74,8 @@ import borrowerPoster from "../assets/borrowerPoster.jpg";
 import borrower_modalcover from "../assets/borrower_modalcover.jpg";
 import fearSoulPoster from "../assets/fearSoulPoster.webp";
 import fearsoul_modalcover from "../assets/fearsoul_modalcover.png";
+import theodoreRexPoster from "../assets/theodoreRexPoster.webp";
+import theodorerex_modalcover from "../assets/theodorerex_modalcover.jpg";
 
 const movies = [
   {
@@ -757,6 +759,24 @@ const movies = [
     genres: ["Political Drama, ", "Romance ", ],
     duration: "93 min ",
     language: "German, Arabic (with English subs) ",
+    link: "https://www.youtube.com/watch?v=wXYsf3gwykI",
+    },
+
+    {
+    id: 39,
+    title: "Theodore Rex",
+    coverPhoto: theodorerex_modalcover,
+    classification: "PG",
+    year: 1995,
+    director: "Jonathan R. Betuel",
+    cast: ["Whoopi Goldberg", "Armin Mueller-Stahl", "Juliet Landau", "Bud Cort", ],
+    synopsis: "In an alternate futuristic society, a tough female police detective is paired with a talking dinosaur to find the killer of dinosaurs and other prehistoric animals leading them to a mad scientist bent on creating a new Armageddon.",
+    whyWatch: "There is no reason to watch this. If you walk in on a friend or family member watching it then please seek help immediately",
+    posterUrl: theodoreRexPoster,
+    rating: "2.4/10", 
+    genres: ["Sci Fi, ", "Comedy ", ],
+    duration: "91 min ",
+    language: "English ",
     link: "https://www.youtube.com/watch?v=wXYsf3gwykI",
     }
 
