@@ -78,6 +78,12 @@ import theodoreRexPoster from "../assets/theodoreRexPoster.webp";
 import theodorerex_modalcover from "../assets/theodorerex_modalcover.jpg";
 import ninjaDestroyerPoster from "../assets/ninjaDestroyerPoster.webp";
 import ninjadestroyer_modalcover from "../assets/ninjadestroyer_modalcover.png";
+import eltopoPoster from "../assets/eltopoPoster.webp";
+import eltopo_modalcover from "../assets/eltopo_modalcover.jpg";
+import jodorowskysdunePoster from "../assets/jodorowskysDunePoster.webp";
+import jodorowskysdune_modalcover from "../assets/jodorowskysdune_modalcover.webp";
+import blackChristmasPoster from "../assets/blackChristmasPoster.webp";
+import blackchristmas_modalcover from "../assets/blackchristmas_modalcover.jpg";
 
 const movies = [
   {
@@ -798,6 +804,60 @@ const movies = [
     duration: "81 min ",
     language: "Cantonese, English ",
     link: "https://www.youtube.com/watch?v=5Pp4kYmzm1w",
+    },
+
+    {
+    id: 41,
+    title: "El Topo",
+    coverPhoto: eltopo_modalcover,
+    classification: "R18+",
+    year: 1970,
+    director: "Alejandro Jodorowsky",
+    cast: ["Alejandro Jodorowsky", "Brontis Jodorowsky", "José Legarreta", "Alfonso Arau", ],
+    synopsis: "A mysterious black-clad gunfighter wanders a mystical Western landscape encountering multiple bizarre characters.",
+    whyWatch: "A surreal, violent, and darkly spiritual Western that transforms genre tropes into a hallucinatory quest for enlightenment. Packed with striking imagery, religious symbolism, and shocking turns, it’s less a story than a cinematic initiation that challenges and provokes in equal measure.",
+    posterUrl: eltopoPoster,
+    rating: "7.2/10", 
+    genres: ["Western, ", "Drama ", ],
+    duration: "120 min ",
+    language: "Spanish (with English subs) ",
+    link: "https://www.youtube.com/watch?v=jA_mwYjXhKM",
+    },
+
+    {
+    id: 42,
+    title: "Jodorowsky's Dune",
+    coverPhoto: jodorowskysdune_modalcover,
+    classification: "M",
+    year: 2013,
+    director: "Frank Pavich",
+    cast: ["Alejandro Jodorowsky", "Michel Seydoux", "H.R. Giger", "Gary Kurtz", ],
+    synopsis: "The story of cult film director Alejandro Jodorowsky's ambitious but ultimately doomed film adaptation of the seminal science fiction novel.",
+    whyWatch: "Tells the astonishing story of the greatest science-fiction film never made, driven by Alejandro Jodorowsky’s boundless imagination and creative madness. The documentary is inspiring, funny, and deeply moving, showing how a failed project went on to shape decades of cinema, art, and sci-fi culture.",
+    posterUrl: jodorowskysdunePoster,
+    rating: "8.0/10", 
+    genres: ["Documentary, ", "Sci Fi Documentary ", ],
+    duration: "90 min ",
+    language: "Spanish, English, French, German (with subs) ",
+    link: "https://www.youtube.com/watch?v=Tp3UWYm79Js",
+    },
+
+    {
+    id: 43,
+    title: "Black Christmas",
+    coverPhoto: blackchristmas_modalcover,
+    classification: "R18+",
+    year: 1974,
+    director: "Bob Clark",
+    cast: ["Olivia Hussey", "Keir Dullea", "Margot Kidder", "John Saxon", ],
+    synopsis: "During their Christmas break, a group of sorority girls are stalked by a stranger.",
+    whyWatch: "Before Halloween, Scream etc. Was this tense, atmospheric proto-slasher that helped define the genre long before its rules were set. Its unsettling phone calls, restrained violence, and bleak ending create a sense of dread that still feels chilling and ahead of its time.",
+    posterUrl: blackChristmasPoster,
+    rating: "7.1/10", 
+    genres: ["Slasher Horror, ", "Mystery ", ],
+    duration: "97 min ",
+    language: "English ",
+    link: "https://tubitv.com/movies/469540/black-christmas",
     }
 
 
