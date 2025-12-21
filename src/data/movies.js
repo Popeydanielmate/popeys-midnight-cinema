@@ -84,6 +84,8 @@ import jodorowskysdunePoster from "../assets/jodorowskysDunePoster.webp";
 import jodorowskysdune_modalcover from "../assets/jodorowskysdune_modalcover.webp";
 import blackChristmasPoster from "../assets/blackChristmasPoster.webp";
 import blackchristmas_modalcover from "../assets/blackchristmas_modalcover.jpg";
+import elvesPoster from "../assets/elvesPoster.webp";
+import elves_modalcover from "../assets/elves_modalcover.webp";
 
 const movies = [
   {
@@ -858,6 +860,24 @@ const movies = [
     duration: "97 min ",
     language: "English ",
     link: "https://tubitv.com/movies/469540/black-christmas",
+    },
+
+    {
+    id: 44,
+    title: "Elves",
+    coverPhoto: elves_modalcover,
+    classification: "M",
+    year: 1989,
+    director: "Jeffrey Mandel",
+    cast: ["Dan Haggerty", "Julie Austin", "Deanna Lund", "Borah Silver", ],
+    synopsis: "A woman finds she is part of a Nazi breeding experiment with elves to create supermen. She and friends are trapped in a store with an elf. Only a renegade Santa Claus can save them.",
+    whyWatch: "wholesome, feel-good Christmas tale about festive traditions and family values. It’s the perfect cozy holiday movie to curl up with..",
+    posterUrl: elvesPoster,
+    rating: "4.2/10", 
+    genres: ["Horror, ", "Comedy ", ],
+    duration: "89 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=6-CoWPwb8CU",
     }
 
 
