@@ -86,6 +86,8 @@ import blackChristmasPoster from "../assets/blackChristmasPoster.webp";
 import blackchristmas_modalcover from "../assets/blackchristmas_modalcover.jpg";
 import elvesPoster from "../assets/elvesPoster.webp";
 import elves_modalcover from "../assets/elves_modalcover.webp";
+import laternPoster from "../assets/laternPoster.jpg";
+import latern_modalcover from "../assets/latern_modalcover.jpg";
 
 const movies = [
   {
@@ -878,6 +880,24 @@ const movies = [
     duration: "89 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=6-CoWPwb8CU",
+    },
+
+    {
+    id: 45,
+    title: "Raise the Red Latern",
+    coverPhoto: latern_modalcover,
+    classification: "PG",
+    year: 1991,
+    director: "Yimou Zhang",
+    cast: ["Gong Li", "Jingwu Ma", "Saifei He", "Cuifen Cao", ],
+    synopsis: "A young woman becomes the fourth concubine of a wealthy man and soon realizes there's fierce competition for his attention and the associated privileges.",
+    whyWatch: "visually exquisite and emotionally devastating film that uses rigid tradition and domestic ritual to expose power, control, and repression. Through meticulous composition and quiet cruelty, it delivers a haunting critique of patriarchy that lingers long after the final image.",
+    posterUrl: laternPoster,
+    rating: "8.1/10", 
+    genres: ["Dark Romance, ", "Period Drama ", ],
+    duration: "124 min ",
+    language: "Mandarin (with English subs) ",
+    link: "https://www.youtube.com/watch?v=BMwHE8Po-oc",
     }
 
 
