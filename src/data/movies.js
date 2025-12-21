@@ -88,6 +88,8 @@ import elvesPoster from "../assets/elvesPoster.webp";
 import elves_modalcover from "../assets/elves_modalcover.webp";
 import laternPoster from "../assets/laternPoster.jpg";
 import latern_modalcover from "../assets/latern_modalcover.jpg";
+import hardBoiledPoster from "../assets/hardBoiledPoster.jpg";
+import hardboiled_modalcover from "../assets/hardboiled_modalcover.jpg";
 
 const movies = [
   {
@@ -898,6 +900,24 @@ const movies = [
     duration: "124 min ",
     language: "Mandarin (with English subs) ",
     link: "https://www.youtube.com/watch?v=BMwHE8Po-oc",
+    },
+
+    {
+    id: 46,
+    title: "Hard Boiled",
+    coverPhoto: hardboiled_modalcover,
+    classification: "R18+",
+    year: 1992,
+    director: "John Woo",
+    cast: ["Chow Yun-Fat", "Tony Leung Chiu-wai", "Teresa Mo", "Philip Chan", ],
+    synopsis: "A tough-as-nails cop teams up with an undercover agent to shut down a sinister mobster and his crew.",
+    whyWatch: "pure, maximalist action filmmaking at its most stylish and uncompromising, featuring some of the most elaborate shootouts ever put on screen.",
+    posterUrl: hardBoiledPoster,
+    rating: "7.7/10", 
+    genres: ["Action, ", "Dark Comedy ", ],
+    duration: "128 min ",
+    language: "Cantonese (with English subs) ",
+    link: "https://tubitv.com/movies/100042745/hard-boiled",
     }
 
 
