@@ -90,6 +90,8 @@ import laternPoster from "../assets/laternPoster.jpg";
 import latern_modalcover from "../assets/latern_modalcover.jpg";
 import hardBoiledPoster from "../assets/hardBoiledPoster.jpg";
 import hardboiled_modalcover from "../assets/hardboiled_modalcover.jpg";
+import doomGenerationPoster from "../assets/doomGenerationPoster.jpg";
+import doomgeneration_modalcover from "../assets/doomgeneration_modalcover.jpeg";
 
 const movies = [
   {
@@ -918,6 +920,24 @@ const movies = [
     duration: "128 min ",
     language: "Cantonese (with English subs) ",
     link: "https://tubitv.com/movies/100042745/hard-boiled",
+    },
+
+    {
+    id: 47,
+    title: "Doom Generation",
+    coverPhoto: doomgeneration_modalcover,
+    classification: "R18+",
+    year: 1995,
+    director: "Gregg Araki",
+    cast: ["James Duval", "Rose McGowan", "Johnathon Schaech", "Cress Williams", ],
+    synopsis: "Jordan White and Amy Blue, two troubled teens, pick up an adolescent drifter, Xavier Red. Together, the threesome embark on a sex-and-violence-filled journey through an America of psychos and quickie marts.",
+    whyWatch: "Savage road movie that captures mid-’90s nihilism with brutal honesty and dark humor. Greg Araki blends violence, sex, and pop culture into a confrontational cult film that feels angry, stylish, and unapologetically alienating.",
+    posterUrl: doomGenerationPoster,
+    rating: "6.2/10", 
+    genres: ["Teen Drama, ", "Dark Comedy ", ],
+    duration: "83 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details",
     }
 
 
