@@ -98,6 +98,8 @@ import totallyPoster from "../assets/totallyPoster.jpg";
 import totally_modalcover from "../assets/totally_modalcover.jpg";
 import silverLakePoster from "../assets/silverLakePoster.jpeg";
 import silverlake_modalcover from "../assets/silverlake_modalcover.webp";
+import badBoyBubbyPoster from "../assets/badBoyBubbyPoster.webp";
+import badboybubby_modalcover from "../assets/badboybubby_modalcover.webp";
 
 const movies = [
   {
@@ -998,6 +1000,24 @@ const movies = [
     duration: "139 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3452062-3554087/2b7dc2fd8e472ee94283e00a76f7f7d9-3300349-3401416",
+    },
+
+    {
+    id: 51,
+    title: "Bad Boy Bubby",
+    coverPhoto: badboybubby_modalcover,
+    classification: "R18+",
+    year: 1993,
+    director: "Rolf De Heer",
+    cast: ["Nicholas Hope", "Claire Benito", "Ralph Cotterill", "Syd Brisbane", ],
+    synopsis: "Bubby has spent thirty years trapped in the same small room, tricked by his mother. One day, he manages to escape and, deranged and naive in equal measures, his adventure into a modern and nihilistic life begins.",
+    whyWatch: "one of the most shocking and unexpectedly moving films ever made, taking a deeply disturbing premise and transforming it into something strangely human. It’s confronting, darkly funny, and unforgettable",
+    posterUrl: badBoyBubbyPoster,
+    rating: "7.3/10", 
+    genres: ["Drama, ", "Dark Comedy ", ],
+    duration: "114 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3251989-3352599/371d52a8c60cb100ed7ebd69c20765eb-3119929-3219710",
     }
 
 
