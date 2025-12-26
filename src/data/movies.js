@@ -92,6 +92,8 @@ import hardBoiledPoster from "../assets/hardBoiledPoster.jpg";
 import hardboiled_modalcover from "../assets/hardboiled_modalcover.jpg";
 import doomGenerationPoster from "../assets/doomGenerationPoster.jpg";
 import doomgeneration_modalcover from "../assets/doomgeneration_modalcover.jpeg";
+import nowherePoster from "../assets/nowherePoster.jpg";
+import nowhere_modalcover from "../assets/nowhere_modalcover.jpg";
 
 const movies = [
   {
@@ -938,6 +940,24 @@ const movies = [
     duration: "83 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details",
+    },
+
+    {
+    id: 48,
+    title: "Nowhere",
+    coverPhoto: nowhere_modalcover,
+    classification: "R18+",
+    year: 1997,
+    director: "Gregg Araki",
+    cast: ["James Duval", "Rachel True", "Nathan Bexton", "Debi Mazar", ],
+    synopsis: "Follows a day in the lives of a group of Los Angeles high school students and the strange lives they lead.",
+    whyWatch: "hyperactive, candy coloured apocalypse, where teenage angst, pop culture overload, and end of the world anxiety collide. It’s chaotic, funny, and emotionally sincere beneath the noise, acting as a surreal time capsule of late ’90s youth culture.",
+    posterUrl: nowherePoster,
+    rating: "6.6/10", 
+    genres: ["Teen Drama, ", "Dark Comedy ", ],
+    duration: "82 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3617160-3721508/02aa61fd38c6793075b70243d3f23148-3569022-3672536",
     }
 
 
