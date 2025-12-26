@@ -96,6 +96,8 @@ import nowherePoster from "../assets/nowherePoster.jpg";
 import nowhere_modalcover from "../assets/nowhere_modalcover.jpg";
 import totallyPoster from "../assets/totallyPoster.jpg";
 import totally_modalcover from "../assets/totally_modalcover.jpg";
+import silverLakePoster from "../assets/silverLakePoster.jpeg";
+import silverlake_modalcover from "../assets/silverlake_modalcover.webp";
 
 const movies = [
   {
@@ -978,6 +980,24 @@ const movies = [
     duration: "78 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3617160-3721508/02aa61fd38c6793075b70243d3f23148-3569019-3672533",
+    },
+
+    {
+    id: 50,
+    title: "Under The Silver Lake",
+    coverPhoto: silverlake_modalcover,
+    classification: "MA15+",
+    year: 2018,
+    director: "David Robert Mitchell",
+    cast: ["Andrew Garfield", "Riley Keough", "Topher Grace", "Wendy Vanden Heuvel", ],
+    synopsis: "Sam, a disenchanted young man, finds a mysterious woman swimming in his apartment's pool one night. The next morning, she disappears. Sam sets off across LA to find her, and along the way he uncovers a conspiracy far more bizarre.",
+    whyWatch: "paranoid, spiraling neo-noir that turns Los Angeles into a maze of symbols, conspiracies, and cultural decay. It’s funny, frustrating, obsessive, and deliberately keeps you guessing.",
+    posterUrl: silverLakePoster,
+    rating: "6.5/10", 
+    genres: ["Psychological Thriller, ", "Dark Comedy ", ],
+    duration: "139 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3452062-3554087/2b7dc2fd8e472ee94283e00a76f7f7d9-3300349-3401416",
     }
 
 
