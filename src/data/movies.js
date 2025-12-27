@@ -104,6 +104,8 @@ import jimmieBlacksmithPoster from "../assets/jimmieBlacksmithPoster.jpg";
 import jimmieblacksmith_modalcover from "../assets/jimmieBlacksmith_modalcover.jpg";
 import tmntPoster from "../assets/tmntPoster.jpg";
 import tmnt_modalcover from "../assets/tmnt_modalcover.jpeg";
+import tmnt2Poster from "../assets/tmnt2Poster.jpeg";
+import tmnt2_modalcover from "../assets/tmnt2_modalcover.jpg";
 
 const movies = [
   {
@@ -1058,6 +1060,24 @@ const movies = [
     duration: "93 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3452055-3554076/0aea92d946bdd1b511f33e08d04d433e-3295428-3396397",
+    },
+
+    {
+    id: 54,
+    title: "Teenage Mutant Ninja Turtles II",
+    coverPhoto: tmnt2_modalcover,
+    classification: "PG",
+    year: 1991,
+    director: "Michael Pressman",
+    cast: ["Paige Turco", "David Warner", "Michelan Sisti", "Leif Tilden", ],
+    synopsis: "The Turtles discover their origins while they endeavour to save New York City from the evil Shredder and his Foot Clan.",
+    whyWatch: "it ditches darkness for pure, cartoonish fun and embraces early-’90s silliness without shame. It’s lighter, louder, and goofier",
+    posterUrl: tmnt2Poster,
+    rating: "6.0/10", 
+    genres: ["Animal Adventure ", "Comedy, ", "Action " ],
+    duration: "88 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3452055-3554076/0aea92d946bdd1b511f33e08d04d433e-3295235-3396200",
     }
 
 
