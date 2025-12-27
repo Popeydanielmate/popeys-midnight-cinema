@@ -100,6 +100,8 @@ import silverLakePoster from "../assets/silverLakePoster.jpeg";
 import silverlake_modalcover from "../assets/silverlake_modalcover.webp";
 import badBoyBubbyPoster from "../assets/badBoyBubbyPoster.webp";
 import badboybubby_modalcover from "../assets/badboybubby_modalcover.webp";
+import jimmieBlacksmithPoster from "../assets/jimmieBlacksmithPoster.jpg";
+import jimmieblacksmith_modalcover from "../assets/jimmieBlacksmith_modalcover.jpg";
 
 const movies = [
   {
@@ -1018,6 +1020,24 @@ const movies = [
     duration: "114 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3251989-3352599/371d52a8c60cb100ed7ebd69c20765eb-3119929-3219710",
+    },
+
+    {
+    id: 52,
+    title: "Chant of Jimmie Blacksmith",
+    coverPhoto: jimmieblacksmith_modalcover,
+    classification: "R18+",
+    year: 1978,
+    director: "Fred Schepisi",
+    cast: ["Tommy Lewis", "Freddy Reynolds", "Angela Punch McGregor", "Ray Barrett", ],
+    synopsis: "After suffering racist abuse throughout his life, which intensifies following his marriage to a white woman - an indigenous farmhand finds himself driven to murder.",
+    whyWatch: "powerful, uncompromising portrayal of racial injustice and systemic cruelty in Australian history. Fred Schepisi tells the story with empathy and restraint, making it both devastating and essential viewing.",
+    posterUrl: jimmieBlacksmithPoster,
+    rating: "7.3/10", 
+    genres: ["Drama, ", "Crime, ", "History " ],
+    duration: "122 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3423920-3525754/d8946c9d21f8bf5bdfc9ee3613266681-3127375-3228341",
     }
 
 
