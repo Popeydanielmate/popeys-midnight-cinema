@@ -102,6 +102,8 @@ import badBoyBubbyPoster from "../assets/badBoyBubbyPoster.webp";
 import badboybubby_modalcover from "../assets/badboybubby_modalcover.webp";
 import jimmieBlacksmithPoster from "../assets/jimmieBlacksmithPoster.jpg";
 import jimmieblacksmith_modalcover from "../assets/jimmieBlacksmith_modalcover.jpg";
+import tmntPoster from "../assets/tmntPoster.jpg";
+import tmnt_modalcover from "../assets/tmnt_modalcover.jpeg";
 
 const movies = [
   {
@@ -1038,7 +1040,26 @@ const movies = [
     duration: "122 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3423920-3525754/d8946c9d21f8bf5bdfc9ee3613266681-3127375-3228341",
+    },
+
+    {
+    id: 53,
+    title: "Teenage Mutant Ninja Turtles",
+    coverPhoto: tmnt_modalcover,
+    classification: "PG",
+    year: 1990,
+    director: "Steve Barron",
+    cast: ["Judith Hoag", "Elias Koteas", "Josh Pais", "Michelan Sisti", ],
+    synopsis: "Four teenage mutant ninja turtles emerge from the shadows to protect New York City from a gang of criminal ninjas.",
+    whyWatch: "shockingly dark yet funny and sincere, well crafted for a movie based on pizza loving ninjas. The practical suits, moody atmosphere, and earnest tone make it far better than it has any right to be.",
+    posterUrl: tmntPoster,
+    rating: "6.8/10", 
+    genres: ["Animal Adventure ", "Comedy, ", "Action " ],
+    duration: "93 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3452055-3554076/0aea92d946bdd1b511f33e08d04d433e-3295428-3396397",
     }
+
 
 
 
