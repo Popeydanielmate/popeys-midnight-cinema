@@ -108,6 +108,8 @@ import tmnt2Poster from "../assets/tmnt2Poster.jpeg";
 import tmnt2_modalcover from "../assets/tmnt2_modalcover.jpg";
 import deathstalker2Poster from "../assets/deathstalker2Poster.jpg";
 import deathstalker2_modalcover from "../assets/deathstalker2_modalcover.webp";
+import deathstalker3Poster from "../assets/deathstalker3Poster.jpg";
+import deathstalker3_modalcover from "../assets/deathstalker3_modalcover.jpg";
 
 const movies = [
   {
@@ -1098,6 +1100,24 @@ const movies = [
     duration: "77 min ",
     language: "English ",
     link: "https://tubitv.com/movies/463723/deathstalker-ii",
+    },
+
+    {
+    id: 56,
+    title: "Deathstalker III: The Warriors From Hell",
+    coverPhoto: deathstalker3_modalcover,
+    classification: "R18+",
+    year: 1988,
+    director: "Alfonso Corona",
+    cast: ["John Allen Nelson", "Carla Herd", "Terri Treas", "Thom Christopher", ],
+    synopsis: "The third thrilling saga of Deathstalker pits him against the evil wizard and ruler of the Southland, Troxartes, and his band of undead warriors.",
+    whyWatch: "Even if you've endured the first two Deathstalker movies, this one is a tough sell. For the absolute purists only. Even if you must we recommend the Mystery Science Theatre version..",
+    posterUrl: deathstalker3Poster,
+    rating: "2.8/10", 
+    genres: ["B-Action ", "Fantasy, ", "Action " ],
+    duration: "86 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=UgGFOYNpQ9s",
     }
 
 
