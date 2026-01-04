@@ -1151,7 +1151,7 @@ const movies = [
     director: "Marcell Jankovics",
     cast: ["György Cserhalmi", "Vera Pap", "Gyula Szabó", "Ferenc Szalma", ],
     synopsis: "In this dreamlike Hungarian folk myth, a horse goddess gives birth to three powerful brothers who set out into the Underworld to save three princesses from three evil dragons and reclaim their ancestors' lost kingdom.",
-    whyWatch: "Well if you've somehow managed to sit throught the first three then you're probably gonna sit through this one too. Somehow the original Deathstalker actor, Rick Hill, returns without much acknowledgement of continuity or why. Roger Corman reuses footage from his other sword & sorcery produced masterpieces to get the most of the micro-budget. Sold yet?",
+    whyWatch: "wildly imaginative Hungarian animated myth that blends psychedelic visuals with ancient folklore. Its surreal art style, symbolic storytelling, and hypnotic music make it essential viewing if you enjoy mythic epics, cult animation, or films that feel more like a dream than a narrative.",
     posterUrl: feherlofiaPoster,
     rating: "7.8/10", 
     genres: ["Hand-Drawn Animation ", "Fantasy, ", "Adventure " ],
