@@ -110,6 +110,8 @@ import deathstalker2Poster from "../assets/deathstalker2Poster.jpg";
 import deathstalker2_modalcover from "../assets/deathstalker2_modalcover.webp";
 import deathstalker3Poster from "../assets/deathstalker3Poster.jpg";
 import deathstalker3_modalcover from "../assets/deathstalker3_modalcover.jpg";
+import deathstalker4Poster from "../assets/deathstalker4Poster.jpg";
+import deathstalker4_modalcover from "../assets/deathstalker4_modalcover.jpg";
 
 const movies = [
   {
@@ -1118,6 +1120,24 @@ const movies = [
     duration: "86 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=UgGFOYNpQ9s",
+    },
+
+    {
+    id: 57,
+    title: "Deathstalker IV: Match of the Titans",
+    coverPhoto: deathstalker4_modalcover,
+    classification: "R18+",
+    year: 1991,
+    director: "Howard R. Cohen",
+    cast: ["Rick Hill", "Maria Ford", "Brett Baxter Clark", "Michelle Moffett", ],
+    synopsis: "Deathstalker must defend his remaining comrades, his life, and his newfound love in the battle against an evil army of stone warriors and the wicked queen who created them.",
+    whyWatch: "Well if you've somehow managed to sit throught the first three then you're probably gonna sit through this one too. Somehow the original Deathstalker actor, Rick Hill, returns without much acknowledgement of continuity or why. Roger Corman reuses footage from his other sword & sorcery produced masterpieces to get the most of the micro-budget. Sold yet?",
+    posterUrl: deathstalker4Poster,
+    rating: "3.7/10", 
+    genres: ["B-Action ", "Fantasy, ", "Action " ],
+    duration: "75 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=QVhPaAzLUg0",
     }
 
 
