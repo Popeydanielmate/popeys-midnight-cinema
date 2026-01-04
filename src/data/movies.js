@@ -112,6 +112,8 @@ import deathstalker3Poster from "../assets/deathstalker3Poster.jpg";
 import deathstalker3_modalcover from "../assets/deathstalker3_modalcover.jpg";
 import deathstalker4Poster from "../assets/deathstalker4Poster.jpg";
 import deathstalker4_modalcover from "../assets/deathstalker4_modalcover.jpg";
+import feherlofiaPoster from "../assets/feherlofiaPoster.jpg";
+import feherlofia_modalcover from "../assets/feherlofia_modalcover.jpeg";
 
 const movies = [
   {
@@ -1138,6 +1140,24 @@ const movies = [
     duration: "75 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=QVhPaAzLUg0",
+    },
+
+    {
+    id: 58,
+    title: "Feherlofia: Son of the White Mare",
+    coverPhoto:feherlofia_modalcover,
+    classification: "PG",
+    year: 1981,
+    director: "Marcell Jankovics",
+    cast: ["György Cserhalmi", "Vera Pap", "Gyula Szabó", "Ferenc Szalma", ],
+    synopsis: "In this dreamlike Hungarian folk myth, a horse goddess gives birth to three powerful brothers who set out into the Underworld to save three princesses from three evil dragons and reclaim their ancestors' lost kingdom.",
+    whyWatch: "Well if you've somehow managed to sit throught the first three then you're probably gonna sit through this one too. Somehow the original Deathstalker actor, Rick Hill, returns without much acknowledgement of continuity or why. Roger Corman reuses footage from his other sword & sorcery produced masterpieces to get the most of the micro-budget. Sold yet?",
+    posterUrl: feherlofiaPoster,
+    rating: "7.8/10", 
+    genres: ["Hand-Drawn Animation ", "Fantasy, ", "Adventure " ],
+    duration: "86 min ",
+    language: "Hungarian ",
+    link: "https://www.dailymotion.com/video/x8reptk",
     }
 
 
