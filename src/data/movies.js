@@ -106,6 +106,8 @@ import tmntPoster from "../assets/tmntPoster.jpg";
 import tmnt_modalcover from "../assets/tmnt_modalcover.jpeg";
 import tmnt2Poster from "../assets/tmnt2Poster.jpeg";
 import tmnt2_modalcover from "../assets/tmnt2_modalcover.jpg";
+import deathstalker2Poster from "../assets/deathstalker2Poster.jpg";
+import deathstalker2_modalcover from "../assets/deathstalker2_modalcover.webp";
 
 const movies = [
   {
@@ -1078,6 +1080,24 @@ const movies = [
     duration: "88 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197?mode=details#3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3452055-3554076/0aea92d946bdd1b511f33e08d04d433e-3295235-3396200",
+    },
+
+    {
+    id: 55,
+    title: "Deathstalker II: Duel of the Titans",
+    coverPhoto: deathstalker2_modalcover,
+    classification: "R18+",
+    year: 1987,
+    director: "Jim Wynorski",
+    cast: ["John Terlesky", "Monique Gabrielle", "John Lazar", "Toni Naples", ],
+    synopsis: "In this parody of the sword and sorcery films, a princess is deposed by an evil sorcerer. She enlists the aid of Deathstalker to battle the forces of evil, including a clone of the princess, and win back her kingdom.",
+    whyWatch: "completely abandons grim fantasy and leans hard into self-aware, fourth-wall-breaking stupidity.",
+    posterUrl: deathstalker2Poster,
+    rating: "5.2/10", 
+    genres: ["B-Action ", "Comedy, ", "Action " ],
+    duration: "77 min ",
+    language: "English ",
+    link: "https://tubitv.com/movies/463723/deathstalker-ii",
     }
 
 
