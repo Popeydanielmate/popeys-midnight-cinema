@@ -1,5 +1,5 @@
 import deathstalkerPoster from "../assets/deathstalker-poster.jpeg";
-import deathstalkerModalPhoto from "../assets/deathstalker_modalcover.png";
+import deathstalker_modalcover from "../assets/deathstalker_modalcover.png";
 import stalker_modalcover from "../assets/stalker_modalcover.avif";
 import stalkerPoster from "../assets/stalkerPoster.jpg";
 import kasparPoster from "../assets/kasparPoster.jpg";
@@ -119,7 +119,7 @@ const movies = [
   {
     id: 1,
     title: "Deathstalker",
-    coverPhoto: deathstalkerModalPhoto,
+    coverPhoto: deathstalker_modalcover,
     classification: "R18+",
     year: 1983,
     director: "James Sbardellati",
