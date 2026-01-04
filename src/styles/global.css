@@ -156,7 +156,8 @@ a {
 
 .movie-poster {
   width: 100%;
-  height: auto;
+  height: 225px;
+  object-fit: cover; 
   border-bottom: 2px solid #444;
 }
 
