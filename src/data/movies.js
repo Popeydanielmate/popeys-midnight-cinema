@@ -114,6 +114,8 @@ import deathstalker4Poster from "../assets/deathstalker4Poster.jpg";
 import deathstalker4_modalcover from "../assets/deathstalker4_modalcover.jpg";
 import feherlofiaPoster from "../assets/feherlofiaPoster.jpg";
 import feherlofia_modalcover from "../assets/feherlofia_modalcover.jpeg";
+import k9000Poster from "../assets/k9000Poster.jpg";
+import k9000_modalcover from "../assets/k9000_modalcover.webp";
 
 const movies = [
   {
@@ -1158,6 +1160,24 @@ const movies = [
     duration: "86 min ",
     language: "Hungarian ",
     link: "https://www.dailymotion.com/video/x8reptk",
+    },
+
+    {
+    id: 59,
+    title: "K-9000 (Cyber Dog)",
+    coverPhoto:k9000_modalcover,
+    classification: "M",
+    year: 1990,
+    director: "Kim Manners",
+    cast: ["Chris Mulkey", "Catherine Oxenberg", "Dennis Haysbert", "Dana Gladstone", ],
+    synopsis: "A policeman and a female scientist team up to recover her latest creation, a cybernetic, crime-fighting dog.",
+    whyWatch: "It has a talking cybernetic dog. it's terrible and of its time but if you were ever wondering if there was a b-grade mash up of Terminator and Turner & Hooch then yes, here it is...",
+    posterUrl: k9000Poster,
+    rating: "4.9/10", 
+    genres: ["Sci Fi ", "Crime, ", "Adventure " ],
+    duration: "90 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=Y_KdJGHzGYo",
     }
 
 
