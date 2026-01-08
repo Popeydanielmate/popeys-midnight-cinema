@@ -116,6 +116,8 @@ import feherlofiaPoster from "../assets/feherlofiaPoster.jpg";
 import feherlofia_modalcover from "../assets/feherlofia_modalcover.jpeg";
 import k9000Poster from "../assets/k9000Poster.jpg";
 import k9000_modalcover from "../assets/k9000_modalcover.webp";
+import heartOfGlassPoster from "../assets/heartOfGlassPoster.jpeg";
+import heartofglass_modalcover from "../assets/heartofglass_modalcover.jpg";
 
 const movies = [
   {
@@ -1178,6 +1180,24 @@ const movies = [
     duration: "90 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=Y_KdJGHzGYo",
+    },
+
+    {
+    id: 60,
+    title: "Heart of Glass",
+    coverPhoto: heartofglass_modalcover,
+    classification: "M",
+    year: 1976,
+    director: "Werner Herzog",
+    cast: ["Josef Bierbichler", "Stefan Güttler", "Clemens Scheitz", "Volker Prechtel", ],
+    synopsis: "The foreman of a small village glassworks dies without revealing the secret to the famous Ruby Glass.",
+    whyWatch: "Apocalyptic folk tale where the actors were placed under hypnosis with dreamlike pacing and an eerie, trance like atmosphere.",
+    posterUrl: heartOfGlassPoster,
+    rating: "6.8/10", 
+    genres: ["Drama ", "Tragedy, ", ],
+    duration: "94 min ",
+    language: "German (with English subs) ",
+    link: "https://www.youtube.com/watch?v=TC0_FCgLSO8",
     }
 
 
