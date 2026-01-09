@@ -118,6 +118,8 @@ import k9000Poster from "../assets/k9000Poster.jpg";
 import k9000_modalcover from "../assets/k9000_modalcover.webp";
 import heartOfGlassPoster from "../assets/heartOfGlassPoster.jpeg";
 import heartofglass_modalcover from "../assets/heartofglass_modalcover.jpg";
+import mst3000DeathstalkerPoster from "../assets/mst3000DeathstalkerPoster.jpg";
+import mst3000deathstalker_modalcover from "../assets/mst3000deathstalker_modalcover.jpg";
 
 const movies = [
   {
@@ -1198,6 +1200,24 @@ const movies = [
     duration: "94 min ",
     language: "German (with English subs) ",
     link: "https://www.youtube.com/watch?v=TC0_FCgLSO8",
+    },
+
+    {
+    id: 61,
+    title: "Mystery Science Theatre 3000: Deathstalker III",
+    coverPhoto: mst3000deathstalker_modalcover,
+    classification: "PG",
+    year: 1988,
+    director: "Joel Hodgson",
+    cast: ["Joel Hodgson", "Trace Beaulieu", "Michael J. Nelson", "Jim Mallon", ],
+    synopsis: "In the not-too-distant future Joel Robinson is held captive by Dr. Forrester and TV's Frank, forced to watch B-Grade movies on the Satellite of Love with the help of his robot friends: Cambot, Gypsy, Tom Servo and Crow T. Robot. This time it's Deathstalker III",
+    whyWatch: "An easier way to digest Deathstalker III by having comedians riff over it, if you find yourself relentlessly trying to get through the Deathstalker universe",
+    posterUrl: mst3000DeathstalkerPoster,
+    rating: "8.6/10", 
+    genres: ["Comedy ", "Space Sci Fi, ", ],
+    duration: "91 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=RtA0g58oG7E",
     }
 
 
