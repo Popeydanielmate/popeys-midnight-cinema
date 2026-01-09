@@ -122,6 +122,8 @@ import mst3000DeathstalkerPoster from "../assets/mst3000DeathstalkerPoster.jpg";
 import mst3000deathstalker_modalcover from "../assets/mst3000deathstalker_modalcover.jpg";
 import hellraiser2Poster from "../assets/hellraiser2Poster.jpg";
 import hellraiser2_modalcover from "../assets/hellraiser2_modalcover.webp";
+import hellraiser3Poster from "../assets/hellraiser3Poster.jpg";
+import hellraiser3_modalcover from "../assets/hellraiser3_modalcover.jpg";
 
 const movies = [
   {
@@ -1238,6 +1240,24 @@ const movies = [
     duration: "99 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252073-3352683/1a71c13f729699a1af6d6230b6d4ecfa-3132663-3233673",
+    },
+
+    {
+    id: 63,
+    title: "Hellraiser III",
+    coverPhoto: hellraiser3_modalcover,
+    classification: "R18+",
+    year: 1992,
+    director: "Anthony Hickox",
+    cast: ["Terry Farrell", "Doug Bradley", "Kevin Bernhardt", "Lawrence Mortorff", ],
+    synopsis: "An investigative reporter must send the newly unbound Pinhead and his legions back to Hell.",
+    whyWatch: "If you care less about the hellraiser lore and more about seeing cool 90s body horror practical effects",
+    posterUrl: hellraiser3Poster,
+    rating: "5.5/10", 
+    genres: ["Body Horror ", "Thriller, ", ],
+    duration: "97 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3251989-3352599/371d52a8c60cb100ed7ebd69c20765eb-3132656-3233666",
     }
 
 
