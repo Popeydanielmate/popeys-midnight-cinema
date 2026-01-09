@@ -120,6 +120,8 @@ import heartOfGlassPoster from "../assets/heartOfGlassPoster.jpeg";
 import heartofglass_modalcover from "../assets/heartofglass_modalcover.jpg";
 import mst3000DeathstalkerPoster from "../assets/mst3000DeathstalkerPoster.jpg";
 import mst3000deathstalker_modalcover from "../assets/mst3000deathstalker_modalcover.jpg";
+import hellraiser2Poster from "../assets/hellraiser2Poster.jpg";
+import hellraiser2_modalcover from "../assets/hellraiser2_modalcover.webp";
 
 const movies = [
   {
@@ -1218,6 +1220,24 @@ const movies = [
     duration: "91 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=RtA0g58oG7E",
+    },
+
+    {
+    id: 62,
+    title: "Hellraiser II",
+    coverPhoto: hellraiser2_modalcover,
+    classification: "R18+",
+    year: 1988,
+    director: "Tony Randel",
+    cast: ["Doug Bradley", "Ashley Laurence", "Clare Higgins", "Kenneth Cranham", ],
+    synopsis: "Kirsty is brought to an institution after the horrible events of Hellraiser (1987), where the occult-obsessive head doctor resurrects Julia and unleashes the Cenobites and their demonic underworld.",
+    whyWatch: "To be frank, it doesn't add too much to the existing story but if you enjoyed the first one then it has the same 80s-90s body horror practical effects style.",
+    posterUrl: hellraiser2Poster,
+    rating: "6.4/10", 
+    genres: ["Body Horror ", "Thriller, ", ],
+    duration: "99 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252073-3352683/1a71c13f729699a1af6d6230b6d4ecfa-3132663-3233673",
     }
 
 
