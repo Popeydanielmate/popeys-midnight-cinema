@@ -124,7 +124,8 @@ import hellraiser2Poster from "../assets/hellraiser2Poster.jpg";
 import hellraiser2_modalcover from "../assets/hellraiser2_modalcover.webp";
 import hellraiser3Poster from "../assets/hellraiser3Poster.jpg";
 import hellraiser3_modalcover from "../assets/hellraiser3_modalcover.jpg";
-
+import hellraiser4Poster from "../assets/hellraiser4Poster.jpg";
+import hellraiser4_modalcover from "../assets/hellraiser4_modalcover.jpg";
 const movies = [
   {
     id: 1,
@@ -1258,6 +1259,24 @@ const movies = [
     duration: "97 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3226659-3327197/a2f4fbcf33028dc3d07a3f641dc360cb-3251989-3352599/371d52a8c60cb100ed7ebd69c20765eb-3132656-3233666",
+    },
+
+    {
+    id: 64,
+    title: "Hellraiser IV: Bloodline",
+    coverPhoto: hellraiser4_modalcover,
+    classification: "R18+",
+    year: 1996,
+    director: "Kevin Yagher",
+    cast: ["Bruce Ramsay", "Doug Bradley", "Valentina Vargas", "Adam Scott", ],
+    synopsis: "In the 22nd century, a scientist attempts to right the wrong his ancestor created: the puzzle box that opens the gates of Hell and unleashes Pinhead and his Cenobite legions.",
+    whyWatch: "The most ambitious entry into franchise. I know that doesn't equate to masterpiece but if you've come this far...",
+    posterUrl: hellraiser4Poster,
+    rating: "5.1/10", 
+    genres: ["Body Horror ", "Thriller, ", ],
+    duration: "85 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252039-3352649/ba6122ad680a494fdc05e1d4b06173d8-3307371-3408610",
     }
 
 
