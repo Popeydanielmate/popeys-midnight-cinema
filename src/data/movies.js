@@ -126,6 +126,9 @@ import hellraiser3Poster from "../assets/hellraiser3Poster.jpg";
 import hellraiser3_modalcover from "../assets/hellraiser3_modalcover.jpg";
 import hellraiser4Poster from "../assets/hellraiser4Poster.jpg";
 import hellraiser4_modalcover from "../assets/hellraiser4_modalcover.jpg";
+import bodymeltPoster from "../assets/bodymeltPoster.jpg";
+import bodymelt_modalcover from "../assets/bodymelt_modalcover.jpg";
+
 const movies = [
   {
     id: 1,
@@ -1277,6 +1280,24 @@ const movies = [
     duration: "85 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252039-3352649/ba6122ad680a494fdc05e1d4b06173d8-3307371-3408610",
+    },
+
+    {
+    id: 65,
+    title: "Body Melt",
+    coverPhoto: bodymelt_modalcover,
+    classification: "R18+",
+    year: 1993,
+    director: "Philip Brophy",
+    cast: ["Gerard Kennedy", "Andrew Daddo", "Regina Gaigalas", "Ian Smith", ],
+    synopsis: "Residents of peaceful Pebbles Court, Homesville, are being used unknowingly as test experiments for a new 'Body Drug' that causes rapid body decomposition (melting skin etc.) and painful death.",
+    whyWatch: "Australian body horror that mixes Cronenberg-style goo with broad satire and pure bad taste.",
+    posterUrl: bodymeltPoster,
+    rating: "5.3/10", 
+    genres: ["Body Horror ", "Dark Comedy, ", ],
+    duration: "81 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323?mode=details#3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3452057-3554078/f7f84d46d5750bd53a5477377615bc7e-3291858-3392739",
     }
 
 
