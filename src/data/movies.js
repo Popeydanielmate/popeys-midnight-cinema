@@ -130,6 +130,8 @@ import bodymeltPoster from "../assets/bodymeltPoster.jpg";
 import bodymelt_modalcover from "../assets/bodymelt_modalcover.jpg";
 import despairPoster from "../assets/despairPoster.jpg";
 import despair_modalcover from "../assets/despair_modalcover.jpg";
+import scannersPoster from "../assets/scannersPoster.jpg";
+import scanners_modalcover from "../assets/scanners_modalcover.webp";
 
 const movies = [
   {
@@ -1318,6 +1320,24 @@ const movies = [
     duration: "119 min ",
     language: "German (with English subtitle option) ",
     link: "https://www.youtube.com/watch?v=mL4WkPYX5Rk",
+    },
+
+    {
+    id: 67,
+    title: "Scanners",
+    coverPhoto: scanners_modalcover,
+    classification: "R18+",
+    year: 1981,
+    director: "David Cronenberg",
+    cast: ["Jennifer O'Neill", "Michael Ironside", "Stephen Lack", "Lawrence Dane", ],
+    synopsis: "A scientist trains a man with an advanced telepathic ability called scanning to stop a dangerous Scanner with extraordinary psychic powers from waging war against non-Scanners.",
+    whyWatch: "a tense, paranoid sci-fi thriller that turns psychic powers into a conduit for corporate conspiracy and body horror. Example of Cronenberg being clinical and unsettling early in his career.",
+    posterUrl: scannersPoster,
+    rating: "6.7/10", 
+    genres: ["Body Horror ", "Conspiracy Thriller, ", ],
+    duration: "103 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=e_HXHLuK_gs",
     }
 
 
