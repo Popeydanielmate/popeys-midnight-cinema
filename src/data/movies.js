@@ -128,6 +128,8 @@ import hellraiser4Poster from "../assets/hellraiser4Poster.jpg";
 import hellraiser4_modalcover from "../assets/hellraiser4_modalcover.jpg";
 import bodymeltPoster from "../assets/bodymeltPoster.jpg";
 import bodymelt_modalcover from "../assets/bodymelt_modalcover.jpg";
+import despairPoster from "../assets/despairPoster.jpg";
+import despair_modalcover from "../assets/despair_modalcover.jpg";
 
 const movies = [
   {
@@ -1298,6 +1300,24 @@ const movies = [
     duration: "81 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323?mode=details#3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3452057-3554078/f7f84d46d5750bd53a5477377615bc7e-3291858-3392739",
+    },
+
+    {
+    id: 66,
+    title: "Despair",
+    coverPhoto: despair_modalcover,
+    classification: "M",
+    year: 1978,
+    director: "Rainer Werner Fassbinder",
+    cast: ["Dirk Bogarde", "Andréa Ferréol", "Klaus Löwitsch", "Volker Spengler", ],
+    synopsis: "In early-1930s Berlin, an elegant Russian émigré and eccentric chocolatier convinces himself that he has seen his doppelgänger, and hatches a murderous plan to trade his existence for an entirely new one. Will he get over the deep despair?",
+    whyWatch: "A chilling psychological study of identity and madness, directed by Rainer Werner Fassbinder with icy precision. Perhaps a subtle influence on Don Draper's imposter syndrome storyline in TV show Madmen years later.",
+    posterUrl: despairPoster,
+    rating: "6.9/10", 
+    genres: ["History ", "Drama, ", ],
+    duration: "119 min ",
+    language: "German (with English subtitle option) ",
+    link: "https://www.youtube.com/watch?v=mL4WkPYX5Rk",
     }
 
 
