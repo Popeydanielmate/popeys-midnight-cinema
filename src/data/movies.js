@@ -136,6 +136,8 @@ import sawdevilPoster from "../assets/sawdevilPoster.jpg";
 import sawdevil_modalcover from "../assets/sawdevil_modalcover.webp";
 import deadzonePoster from "../assets/deadzonePoster.jpg";
 import deadzone_modalcover from "../assets/deadzone_modalcover.jpg";
+import trackerPoster from "../assets/trackerPoster.jpg";
+import tracker_modalcover from "../assets/tracker_modalcover.jpg";
 
 const movies = [
   {
@@ -1378,6 +1380,24 @@ const movies = [
     duration: "103 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=GxS28G2MshA",
+    },
+
+    {
+    id: 70,
+    title: "The Tracker",
+    coverPhoto: tracker_modalcover,
+    classification: "M",
+    year: 2002,
+    director: "Rolf De Heer",
+    cast: ["David Gulpilil", "Gary Sweet", "Damon Gameau", "Grant Page", ],
+    synopsis: "Fanatic is a government trooper who is heading an expedition to find an indigenous man accused of murdering a white woman. Others in the expedition are the Follower, a greenhorn trooper, the Veteran, and the Tracker.",
+    whyWatch: "Haunting, minimalist Western that confronts Australia’s colonial violence with poetic restraint and brutal honesty.",
+    posterUrl: trackerPoster,
+    rating: "7.3/10", 
+    genres: ["Western ", "Psychological Drama, ", ],
+    duration: "90 min ",
+    language: "English ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323?mode=details#3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3423920-3525754/9b0460e243ca9c645701e3de9501aea3-3305586-3406782",
     }
 
 
