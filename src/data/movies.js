@@ -132,6 +132,8 @@ import despairPoster from "../assets/despairPoster.jpg";
 import despair_modalcover from "../assets/despair_modalcover.jpg";
 import scannersPoster from "../assets/scannersPoster.jpg";
 import scanners_modalcover from "../assets/scanners_modalcover.webp";
+import sawdevilPoster from "../assets/sawdevilPoster.jpg";
+import sawdevil_modalcover from "../assets/sawdevil_modalcover.webp";
 
 const movies = [
   {
@@ -1338,6 +1340,24 @@ const movies = [
     duration: "103 min ",
     language: "English ",
     link: "https://www.youtube.com/watch?v=e_HXHLuK_gs",
+    },
+
+    {
+    id: 68,
+    title: "I Saw The Devil",
+    coverPhoto: sawdevil_modalcover,
+    classification: "R18+",
+    year: 2010,
+    director: "Kim Jee-woon",
+    cast: ["Lee Byung-hun", "Choi Min-sik", "Jeon Gook-hwan", "Kim Yun-Seo", ],
+    synopsis: "A secret agent exacts revenge on a serial killer through a series of captures and releases.",
+    whyWatch: "Brutal, relentless revenge thriller that refuses easy catharsis and keeps escalating into something genuinely disturbing. It’s expertly directed, morally corrosive, and forces you to sit with how vengeance dehumanizes everyone involved.",
+    posterUrl: sawdevilPoster,
+    rating: "7.8/10", 
+    genres: ["Action ", "Psychological Thriller, ", ],
+    duration: "144 min ",
+    language: "Korean (with English subtitles) ",
+    link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252073-3352683/1a71c13f729699a1af6d6230b6d4ecfa-3301111-3402199",
     }
 
 
