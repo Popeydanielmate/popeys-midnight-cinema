@@ -134,6 +134,8 @@ import scannersPoster from "../assets/scannersPoster.jpg";
 import scanners_modalcover from "../assets/scanners_modalcover.webp";
 import sawdevilPoster from "../assets/sawdevilPoster.jpg";
 import sawdevil_modalcover from "../assets/sawdevil_modalcover.webp";
+import deadzonePoster from "../assets/deadzonePoster.jpg";
+import deadzone_modalcover from "../assets/deadzone_modalcover.jpg";
 
 const movies = [
   {
@@ -1358,6 +1360,24 @@ const movies = [
     duration: "144 min ",
     language: "Korean (with English subtitles) ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3252073-3352683/1a71c13f729699a1af6d6230b6d4ecfa-3301111-3402199",
+    },
+
+    {
+    id: 69,
+    title: "The Dead Zone",
+    coverPhoto: deadzone_modalcover,
+    classification: "M",
+    year: 1983,
+    director: "David Cronenberg",
+    cast: ["Christopher Walken", "Brooke Adams", "Tom Skerritt", "Martin Sheen", ],
+    synopsis: "Five years after a traffic accident that left him in a coma, a man awakens to discover that he has the ability to foresee future events and even prevent tragedies from happening. Will these new abilities prove to be a blessing or a curse?",
+    whyWatch: "Blends Stephen King’s high-concept premise with David Cronenberg’s restrained, melancholic direction. It’s less about shocks than fate, moral responsibility, and the quiet tragedy of knowing too much about the future.",
+    posterUrl: deadzonePoster,
+    rating: "7.2/10", 
+    genres: ["Fantasy ", "Psychological Thriller, ", ],
+    duration: "103 min ",
+    language: "English ",
+    link: "https://www.youtube.com/watch?v=GxS28G2MshA",
     }
 
 
