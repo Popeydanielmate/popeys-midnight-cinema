@@ -142,6 +142,8 @@ import freewayPoster from "../assets/freewayPoster.jpg";
 import freeway_modalcover from "../assets/freeway_modalcover.jpg";
 import prozacNationPoster from "../assets/prozacNationPoster.webp";
 import prozacnation_modalcover from "../assets/prozacnation_modalcover.jpg";
+import pageofMadnessPoster from "../assets/pageofMadnessPoster.jpg";
+import pageofmadness_modalcover from "../assets/pageofmadness_modalcover.jpg";
 
 const movies = [
   {
@@ -1438,6 +1440,24 @@ const movies = [
     duration: "95 min ",
     language: "English ",
     link: "https://tubitv.com/movies/655665/prozac-nation",
+    },
+
+    {
+    id: 73,
+    title: "A Page of Madness",
+    coverPhoto: pageofmadness_modalcover,
+    classification: "M",
+    year: 1926,
+    director: "Teinosuke Kinugasa",
+    cast: ["Masuo Inoue", "Ayako Iijima", "Yoshie Nakagawa", "Hiroshi Nemoto", ],
+    synopsis: "A man works as an orderly at the asylum where his wife has been imprisoned after attempting to drown herself along with their daughter. When said daughter wants to marry, he tries to hide her mother as he slowly becomes unstable himself.",
+    whyWatch: "90s satirical dark comedy thriller. Easy to scroll past but it's far more unhinged than you expect when you end up watching it.",
+    posterUrl: pageofMadnessPoster,
+    rating: "7.3/10", 
+    genres: ["Psychological Drama ", "Horror, ", ],
+    duration: "70 min ",
+    language: "None (silent with English or Japanese subs) ",
+    link: "https://www.youtube.com/watch?v=wP0JDiaCpWA",
     }
 
 
