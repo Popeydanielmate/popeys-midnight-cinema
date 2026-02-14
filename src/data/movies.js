@@ -140,6 +140,8 @@ import trackerPoster from "../assets/trackerPoster.jpg";
 import tracker_modalcover from "../assets/tracker_modalcover.jpg";
 import freewayPoster from "../assets/freewayPoster.jpg";
 import freeway_modalcover from "../assets/freeway_modalcover.jpg";
+import prozacNationPoster from "../assets/prozacNationPoster.webp";
+import prozacnation_modalcover from "../assets/prozacnation_modalcover.jpg";
 
 const movies = [
   {
@@ -1418,6 +1420,24 @@ const movies = [
     duration: "104 min ",
     language: "English ",
     link: "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d776836eb5d26001f1e0e30&context=home%3Ahub.movies.plex-picks-au~2~35",
+    },
+
+    {
+    id: 72,
+    title: "Prozac Nation",
+    coverPhoto: prozacnation_modalcover,
+    classification: "MA15+",
+    year: 2001,
+    director: "Erik Skjoldbjærg",
+    cast: ["Christina Ricci", "Jonathan Rhys Meyers", "Jessica Lange", "Jason Biggs", ],
+    synopsis: "A young woman struggles with depression during her first year at Harvard.",
+    whyWatch: "90s satirical dark comedy thriller. Easy to scroll past but it's far more unhinged than you expect when you end up watching it.",
+    posterUrl: prozacNationPoster,
+    rating: "6.2/10", 
+    genres: ["Psychological Drama ", "Biography, ", ],
+    duration: "95 min ",
+    language: "English ",
+    link: "https://tubitv.com/movies/655665/prozac-nation",
     }
 
 
