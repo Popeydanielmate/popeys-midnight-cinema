@@ -1433,7 +1433,7 @@ const movies = [
     director: "Erik Skjoldbjærg",
     cast: ["Christina Ricci", "Jonathan Rhys Meyers", "Jessica Lange", "Jason Biggs", ],
     synopsis: "A young woman struggles with depression during her first year at Harvard.",
-    whyWatch: "90s satirical dark comedy thriller. Easy to scroll past but it's far more unhinged than you expect when you end up watching it.",
+    whyWatch: "brutally honest portrait of depression, self-destruction, and excess anchored by a fearless Christina Ricci performance. It doesn’t glamorize the spiral, it captures the confusion and ego of mental illness in a way that feels uncomfortably personal.",
     posterUrl: prozacNationPoster,
     rating: "6.2/10", 
     genres: ["Psychological Drama ", "Biography, ", ],
