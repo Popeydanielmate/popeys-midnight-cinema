@@ -1451,7 +1451,7 @@ const movies = [
     director: "Teinosuke Kinugasa",
     cast: ["Masuo Inoue", "Ayako Iijima", "Yoshie Nakagawa", "Hiroshi Nemoto", ],
     synopsis: "A man works as an orderly at the asylum where his wife has been imprisoned after attempting to drown herself along with their daughter. When said daughter wants to marry, he tries to hide her mother as he slowly becomes unstable himself.",
-    whyWatch: "90s satirical dark comedy thriller. Easy to scroll past but it's far more unhinged than you expect when you end up watching it.",
+    whyWatch: "a visually radical descent into psychological chaos that's decades ahead of its time. Its fractured editing, ghostly imagery, and asylum setting create a silent-era nightmare that still feels experimental and unsettling today.",
     posterUrl: pageofMadnessPoster,
     rating: "7.3/10", 
     genres: ["Psychological Drama ", "Horror, ", ],
