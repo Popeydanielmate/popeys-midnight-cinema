@@ -138,6 +138,8 @@ import deadzonePoster from "../assets/deadzonePoster.jpg";
 import deadzone_modalcover from "../assets/deadzone_modalcover.jpg";
 import trackerPoster from "../assets/trackerPoster.jpg";
 import tracker_modalcover from "../assets/tracker_modalcover.jpg";
+import freewayPoster from "../assets/freewayPoster.jpg";
+import freeway_modalcover from "../assets/freeway_modalcover.jpg";
 
 const movies = [
   {
@@ -1398,6 +1400,24 @@ const movies = [
     duration: "90 min ",
     language: "English ",
     link: "https://watch.brollie.com.au/apps/845/3217983-3318323?mode=details#3217983-3318323/49f3d1085d7a049d1ab080fbadb209f9-3423920-3525754/9b0460e243ca9c645701e3de9501aea3-3305586-3406782",
+    },
+
+    {
+    id: 71,
+    title: "Freeway",
+    coverPhoto: freeway_modalcover,
+    classification: "R18+",
+    year: 1996,
+    director: "Matthew Bright",
+    cast: ["Reese Witherspoon", "Kiefer Sutherland", "Bokeem Woodbine", "Paul Perri", ],
+    synopsis: "A twisted take on 'Little Red Riding Hood', with a teenage juvenile delinquent on the run from a social worker travelling to her grandmother's house and being hounded by a charming, but sadistic, serial killer and pedophile.",
+    whyWatch: "90s satirical dark comedy thriller. Easy to scroll past but it's far more unhinged than you expect when you end up watching it.",
+    posterUrl: freewayPoster,
+    rating: "6.8/10", 
+    genres: ["Dark Comedy ", "Crime, ", ],
+    duration: "104 min ",
+    language: "English ",
+    link: "https://app.plex.tv/desktop/#!/provider/tv.plex.provider.vod/details?key=%2Flibrary%2Fmetadata%2F5d776836eb5d26001f1e0e30&context=home%3Ahub.movies.plex-picks-au~2~35",
     }
 
 
